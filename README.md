@@ -1,3 +1,3 @@
 # Coding-Challenges
-https://www.csystem.org/calisma-sorulari
-https://projecteuler.net/archives
+1) https://www.csystem.org/calisma-sorulari
+2) https://projecteuler.net/archives
