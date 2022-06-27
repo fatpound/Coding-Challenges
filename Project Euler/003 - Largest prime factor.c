@@ -34,7 +34,7 @@ int main()
 		}
 	}
 	
-	printf("Largest prime factor is = %llu", max);
+	printf("Largest prime factor is = %llu", max); // An update is coming...
 	
 	getch();
 	return 0;
