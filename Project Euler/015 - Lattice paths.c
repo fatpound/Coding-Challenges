@@ -12,9 +12,7 @@ int main()
 	scanf("%llu", &kenar);
 	kenar++;
 	
-	printf("\n");
-	
-	for (i = 0; i < kenar; i++)
+	for (printf("\n"), i = 0; i < kenar; i++)
 	{
 		for (j = 0; j < kenar; j++)
 		{
@@ -47,11 +45,8 @@ int main()
 	{
 		for (j = 0; j < kenar; j++)
 		{
-			printf("%llu%s", d[i][j], i == kenar - 1 && j == kenar - 1 ? "" : (d[i][j] < 10 ? "  " : " "));
+			printf("%llu%s%s", d[i][j], i == kenar - 1 && j == kenar - 1 ? "" : (d[i][j] < 10 ? "  " : " "), i != kenar - 1 && j == kenar - 1 ? "\n" : "");
 		}
-		
-		if (i != kenar - 1)
-			printf("\n");
 	}
 	
 	getch();
