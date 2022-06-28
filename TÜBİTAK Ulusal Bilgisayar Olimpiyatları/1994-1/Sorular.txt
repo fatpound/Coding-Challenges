@@ -1,13 +1,3 @@
-SINAVA İLİŞKİN
-
-- Süre 180 dakikadır.
-- Sınav 25 genel yetenek, 15 bilgisayar bilgisi sorusundan oluşmaktadır.
-- Her iki bölüm de test usülünde olup çoktan seçmeli veya sonucun verilen boşluğa yazılması biçiminde cevaplandırılacaktır.
-- Her türlü elektronik hesap aracının kullanımı yasaktır.
-- Her türlü yardımcı materyal (kitap, not, vb.) kullanımı yasaktır.
-- Sorular zorluk sırasında DEĞİLDİR. Dolayısıyla yanıtlamaya geçmeden önce bütün soruları gözden geçirmeniz tavsiye olunur.
-- Gözetmenlerin sınav içeriğine ilişkin bilgileri yoktur, sorulara ilişkin soru sormayınız.
-
 GENEL YETENEK
 
 [1-4] soruları için açıklama
