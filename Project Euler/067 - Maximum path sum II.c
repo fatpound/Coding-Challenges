@@ -5,6 +5,7 @@
 
 #define U64 unsigned long long
 
+// I actually don't know if I should let these numbers end with "ULL"
 U64 int triangle[] =
 {
 	59,
