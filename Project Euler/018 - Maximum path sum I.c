@@ -37,7 +37,7 @@ int solution(int index, int offset, int sum)
 	return ((left < right) ? right : left);
 }
 
-// shoutout to Weylyn...
+// with Weylyn...
 int main()
 {
 	printf("%d", solution(0, 1, 0));
