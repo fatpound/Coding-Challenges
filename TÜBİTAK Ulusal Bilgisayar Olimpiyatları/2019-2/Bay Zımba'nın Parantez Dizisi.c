@@ -53,7 +53,7 @@ int Bul(int N)
 			
 			value = (left + right) / 2;
 		}
-		else value += value / 2 * ((result == 1) ? -1 : 1);
+		else value += value / 2 * (result == 1 ? -1 : 1);
 	}
 	
 	return -1;
