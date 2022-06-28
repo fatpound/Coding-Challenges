@@ -1,1 +1,724 @@
+[1-7] soruları için açıklama
 
+A, B, C, D, E, F, G, H, I, J, K ve L aynı binada yaşayan 12 kişidir. Bina 6 katlı olup her katında iki daire bulunmaktadır. Her dairede en fazla 2 kişi yaşamaktadır. Bazı daireler boş olabilir. Binanın yerleşim planı ile ilgili şu bilgiler verilmektedir:
+
+- B ve ev arkadaşı, H ve ev arkadaşı G'den iki kat yukarıda oturmaktadır.
+- A tek başına yaşamaktadır ve evi F'nin evinin 3, K'nın evinin 2 kat altındadır.
+- D, H ve G'nin 1 kat altında oturmaktadır.
+- C, tek başlarına yaşayan ve aynı katta kalan I ve J'nin 3 kat üstünde yaşamaktadır.
+- L ve E tek başlarına yaşamaktadırlar ve evleri D'nin 2 kat altındadır.
+
+Soru 1
+------
+
+En alt kattan en üste doğru giderken aşağıdakilerden hangisi doğru bir sıralama oluşturur?
+
+A) L, I, D, H, B, C
+B) L, J, C, K, B, G
+C) E, I, A, G, C, B
+D) B, K, H, D, J, L
+E) B, A, D, H, I, L
+
+Soru 2
+------
+
+Aşağıdakilerden hangileri aynı katta yaşamaktadır?
+
+1. C ve K
+2. A ve D
+3. H ve B
+
+A) Sadece 1
+B) Sadece 3
+C) Sadece 1 ve 2
+D) Sadece 2 ve 3
+E) 1, 2 ve 3
+
+Soru 3
+------
+
+B'nin ev arkadaşı aşağıdakilerden hangisidir?
+
+A) K
+B) F
+C) D
+D) C
+E) E
+
+Soru 4
+------
+
+L'nin oturduğu ev:
+
+A) 1. katta, I veya J'den daha alttadır
+B) 2. katta, A'dan veya H ile G'den daha alttadır
+C) 3. katta, D veya K'dan daha üsttedir
+D) 4. katta, H ile G'nin karşısındadır
+E) 6. katta, B ve ev arkadaşının karşısındadır
+
+Soru 5
+------
+
+Aşağıdaki katlardan hangilerinde boş daire veya daireler bulunabilir?
+
+A) sadece 2. katta
+B) sadece 4. katta
+C) sadece 5. katta
+D) 3. veya 6. katta ama ikisinde birden değil
+E) 4. veya 6. katta ama ikisinde birden değil
+
+Soru 6
+------
+
+A iki kat alttaki bir daireye taşınıyor. Taşındığı dairede oturan kişi bir kat yukarıdaki bir daireye, bu dairedeki kişi ise üç kat yukarıdaki bir daireye geçmiştir. Bu son dairenin eski sahibi ise A'nın eski dairesine taşındığına göre A'nın eski dairesinin yeni sahibi kimdir?
+
+A) I veya J
+B) C veya K
+C) D
+D) L
+E) E
+
+Soru 7
+------
+
+Aşağıdakilerden hangisi yalnız yaşıyor olamaz?
+
+A) F
+B) D
+C) C
+D) K
+E) J
+
+[8-12] soruları için açıklama
+
+XYZ firmasında 3 memur (A, B ve C) ile 5 sekreter (D, E, F, G ve H) çalışmaktadır. Yönetim çalışanlar arasından seçilecek 3 sekreter ve 2 memura bir görev vermek istiyor. Bu seçim yapılırken aşağıdakiler göz önünde bulundurulmalıdır:
+
+- A ve C beraber çalışmak istemiyorlar.
+- C ve E yalnız çalışmayı seviyorlar, grup halinde başarısızlar.
+- D ve G bir arada çalışamıyorlar.
+- D ve F bir arada çalışamıyorlar.
+
+Soru 8
+------
+
+Eğer A seçilirse aşağıdakilerden hangisi uygun bir grup olmaz?
+
+A) ABDEH
+B) ABDGH
+C) ABEFH
+D) ABEGH
+E) ABFGH
+
+Soru 9
+------
+
+Eğer C ve F seçilirse tüm grup kaç değişik şekilde seçilebilir?
+
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5
+
+Soru 10
+-------
+
+Eğer C seçilirse aşağıdakilerden hangisi seçilemez?
+
+A) B
+B) D
+C) F
+D) G
+E) H
+
+Soru 11
+-------
+
+Problem tanımında verilen koşullar altında aşağıdakilerden hangisi mutlaka seçilmelidir?
+
+A) B
+B) D
+C) E
+D) G
+E) H
+
+Soru 12
+-------
+
+Eğer D seçilirse aşağıdakilerden hangileri doğru olur?
+
+1. C seçilemez
+2. A seçilemez
+3. H de mutlaka seçilir
+
+A) Sadece 1
+B) Sadece 2
+C) Sadece 1 ve 2
+D) Sadece 1 ve 3
+E) 1, 2 ve 3
+
+[13-17] soruları için açıklama
+
+Uluslararası bir toplantıya katılan A, B, C, D, E'nin konuşabildiği diller ile ilgili şunlar bilinmektedir:
+
+- A, İspanyolca ve İtalyanca konuşabiliyor.
+- B, İspanyolca ve Türkçe konuşabiliyor.
+- C, Türkçe ve İtalyanca konuşabiliyor.
+- D, Fransızca ve İspanyolca konuşabiliyor.
+- E, İtalyanca ve Fransızca konuşabiliyor.
+
+Soru 13
+-------
+
+C ve D birbirleriyle konuşmak istediğinde aşağıdakilerden hangisi/hangileri tercümanlık yapabilir?
+
+A) Sadece A
+B) Sadece B
+C) Sadece E
+D) A veya B
+E) A, B veya E
+
+Soru 14
+-------
+
+Aşağıdakilerden hangileri tercüman olmadan birbirleriyle konuşamaz?
+
+A) B ve E
+B) A ve B
+C) A ve C
+D) B ve D
+E) A ve E
+
+Soru 15
+-------
+
+E haricinde D ile kim tercüman olmadan konuşabilir?
+
+A) Sadece A
+B) Sadece B
+C) Sadece C
+D) A ve B
+E) A, B ve C
+
+Soru 16
+-------
+
+Bu 5 kişinin yanına bir kişi daha katılacaktır. Yeni gelen kişinin mümkün olan en fazla kişi ile tercümansız konuşabilmesi için hangi seçenekteki dilleri bilmesi daha uygun olur?
+
+A) Türkçe ve Fransızca
+B) İtalyanca ve Türkçe
+C) Fransızca ve İtalyanca
+D) İtalyanca ve İspanyolca
+E) Türkçe ve İspanyolca
+
+Soru 17
+-------
+
+Toplantıda en az bilinen iki dil aşağıdakilerden hangileridir?
+
+A) Türkçe ve İspanyolca
+B) Türkçe ve Fransızca
+C) İtalyanca ve İspanyolca
+D) İtalyanca ve Türkçe
+E) Fransızca ve İspanyolca
+
+[18-20] soruları için açıklama
+
+Bazı besinlerle ilgili şu bilgiler verilmektedir:
+
+__________________________________________________________________
+Tip | Protein %'si | Karbonhidrat %'si | Yağ %'si | 100 gr. Fiyatı
+__________________________________________________________________
+A          10                20             30         1800 TL
+B          20                15             10         3000 TL
+C          20                10             40         2750 TL
+__________________________________________________________________
+
+Soru 18
+-------
+
+x gram A, y gram B ve z gram alınırsa bu menünün maliyeti ne olur?
+
+A) 18x + 30y + 27.5z TL
+B) 1800x + 3000y + 2750z TL
+C) 1.8x + 3y + 2.75z TL
+D) (1800 + 3000 + 2750)(x + y + z) / 3 TL
+E) 7550 TL
+
+Soru 19
+-------
+
+En çok protein aşağıdakilerden hangisinden alınır?
+
+A) 500 gr. A
+B) 250 gr. B
+C) 350 gr. C
+D) 150 gr. A ve 200 gr. B
+E) 200 gr. B ve 200 gr. C
+
+Soru 20
+-------
+
+Aşağıda beş adet yemek için malzeme listesi verilmiştir. En ucuz olanı hangisidir?
+
+A) 200 gr. A, 150 gr. B
+B) 500 gr. B, 100 gr. A
+C) 200 gr. C
+D) 150 gr. A, 100 gr. C
+E) 300 gr. A
+
+Soru 21
+-------
+
+: ve ? işaretleriyle gösterilen iki mantıksal işleme ait doğruluk çizelgesi aşağıda gösterilmiştir.
+
+p q | p:q | p ? q
+_________________
+0 0 |  1  |   0
+0 1 |  0  |   0
+1 0 |  0  |   1
+1 1 |  0  |   0
+
+Buna göre p ? q ifadesinin : işlemi cinsinden eşdeğeri aşağıdakilerden hangisidir?
+
+A) p:(q:q)
+B) p:(p:q)
+C) (p:p):q
+D) q:(p:q)
+E) (p:p):(q.q)
+
+Soru 22
+-------
+
+Beş kapalı kutudan birinin içine bir altın yüzük konmuştur. A, B, C, D ve E olarak adlandırılan bu kutuların üzerinde şu cümleler yazılıdır:
+
+A: Yüzük bu kutudadır.
+B: Yüzük D kutusunda değildir.
+C: Yüzük bu kutuda değildir.
+D: Yüzük C kutusundadır.
+E: Yüzük B kutusundadır.
+
+Bu cümlelerden sadece biri doğru olduğuna göre yüzük hangi kutudadır?
+
+A) A
+B) B
+C) C
+D) D
+E) E
+
+Soru 23
+-------
+
+N adet bilgisayar bir halka oluşturacak şekilde çift yönlü iletim hatlarıyla bağlanmıştır. (Toplam N adet hat kullanıldığına dikkat ediniz.) Bilgisayarların birinden diğer bilgisayarların her birine ayrı ayrı mesajlar (toplam N - 1 mesaj) iletildiğini düşününüz. Mesajların aldığı toplam en az yol N = 20 için nedir?
+
+A) 100
+B) 105
+C) 190
+D) 90
+E) 110
+
+Soru 24
+-------
+
+a[n]*(x^n) + a[n-1]*(x^(n-1)) + ... + a[1]*x + a[0] çok terimlisini hesaplamak için gereken en az çarpma işlemi sayısı nedir? (Üs alma işlemi çarpma işlemi yapılarak gerçekleştirilmektedir.)
+
+A) n²
+B) n + n(n+1)/2
+C) n
+D) 2n
+E) n(n+1)/2
+
+[25-28] soruları için açıklama
+
+Ortak Bölenlerin En Büyüğü (OBEB): Verilen iki pozitif tamsayının ortak bölenlerinin en büyüğünü aşağıdaki yöntem ile bulabiliriz:
+
+- verilen iki sayı eşit ise bu iki sayının OBEB'i bu sayıların kendisine eşittir (Yani Eğer x = y ise OBEB(x, y) = x),
+- verilen iki sayı farklı ise bu iki sayının OBEB'i küçük sayı ile büyük ile küçüğün farkından elde edilen sayının OBEB'ine eşittir (Yani Eğer x > y ise OBEB(x, y) = OBEB(x - y, y), Eğer y > x ise OBEB(x, y) = OBEB(x, y - x)).
+
+Soru 25
+-------
+
+Yukarıdaki yöntemle 56 ve 80 sayılarının OBEB'ini bulmak istersek kaç adet çıkarma işlemi yapmamız gerekir?
+
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Soru 26
+-------
+
+Yukarıdaki yöntemle n ve n + 1 sayılarının (n pozitif tam sayı) OBEB'ini bulmak istersek kaç adet çıkarma yapmamız gerekir?
+
+A) 1
+B) 2
+C) n
+D) n + 1
+E) n²
+
+Soru 27
+-------
+
+Yukarıdaki yöntemle iki adet farklı sayının her durumda sadece bir adet çıkarma işlemi yaparak OBEB'ini bulabilmemiz için bu sayıların aşağıdaki özelliklerden hangisine sahip olmaları gerekir?
+
+A) Bu iki sayının farkı 1 olmalı.
+B) Bir sayı diğerinin 3 katı olmalı.
+C) Bu sayıların farkları asal sayı olmalı.
+D) Bir sayı diğerinin 2 katı olmalı.
+E) Bu sayıların OBEB'i 1 olmalı.
+
+Soru 28
+-------
+
+Yukarıdaki yöntemle 1 ve n sayılarının (n pozitif tam sayı) OBEB'ini bulmak istersek kaç adet çıkarma yapmamız gerekir?
+
+A) 1
+B) 2
+C) n
+D) n + 1
+E) n - 1
+
+Soru 29
+-------
+
+Aşağıda verilien f dizisinin değeri f(10 ^ 10) için kaçtır?
+
+ i) f(1) = 1
+ii) f(n) = 10 * f(n / 10) + n, n > 1 ise
+
+A) 10 ^ 10
+B) 10 * (10 ^ 10)
+C) 9 * (10 ^ 10)
+D) 11 ^ 10
+E) 11 * (10 ^ 10)
+
+Soru 30
+-------
+
+Aşağıda verilien f dizisinin 7. elemanını (f(7)) bulmak için toplam kaç defa 4 numaralı tanım (iv) kullanılacaktır? (Not: Aynı değer birden çok defa hesaplanmak durumunda kalınabilir, her seferinde önceden bulunan sonucun kullanılacağını değil de yeniden hesaplanacağını kabul edin.)
+
+  i) f(0) = 0
+ ii) f(1) = 1
+iii) f(2) = 2
+ iv) f(n) = f(n - 1) + f(n - 3), n > 2 ise
+
+A) 8
+B) 3
+C) 1
+D) 11
+E) 17
+
+Soru 31
+-------
+
+Bir fabrikada 30 araba yapılmaktadır. Bu arabalara opsiyon olarak radyo, klima ve kar lastikleri takılabilmektedir. Arabaların 15 tanesinde radyo, 8 tanesinde klima, 6 tanesinde kar lastikleri, 3 tanesinde de opsiyonların hepsi bulunmaktadır. Buna göre hiç bir opsiyonu olmayan en az kaç adet araba vardır?
+
+A) 23
+B) 10
+C) 8
+D) 11
+E) 7
+
+Soru 32
+-------
+
+2t + 1 adet topu, 3 farklı kutuya, herhangi iki kutudaki topların toplamının üçüncüdekilerden fazla olmak şartıyla kaç değişik şekilde doldurabiliriz?
+
+A) t² / 2
+B) t² * (t + 1) / 2
+C) (t + 1) * (t + 2) / 2
+D) (t + 1) * (2 * t + 1) / 2
+E) t * (t + 1) / 2
+
+Soru 33
+-------
+
+1 ile 250 arasında 2, 3, 5 ve 7 sayılarından herhangi birine bölünebilen kaç tamsayı vardır?
+
+A) 86
+B) 125
+C) 160
+D) 193
+E) 213
+
+Soru 34
+-------
+
+Bir öğrenci haftanın 7 günü için çalışma planı hazırlayacak olup her gün bir konu çalışacaktır. Çalışacağı konular matematik, kimya, bilgisayar ve fizik olduğuna göre tüm konuları çalışabileceği, çalışma planlarının sayısı kaçtır?
+
+A) 4 ^ 7
+B) 4 * (3 ^ 7)
+C) 4 ^ 7 - 4 * (3 ^ 7) + 6 * (2 ^ 7) - 4
+D) 4 ^ 7 - 3 * (3 ^ 7) + 4 * (2 ^ 7) - 4
+E) 3 * (3 ^ 7) - 4 * (2 ^ 7) + 4
+
+Soru 35
+-------
+
+b tamsayısı ikili sistemde b[q]b[q - 1]...b[0] olarak gösterilmektedir. b tamsayısının 3'e bölünebilmesi ancak ve ancak aşağıdakilerden hangisinin gerçekleşmesi ile mümkündür?
+
+A) b[1] = b[0] = 1
+B) b[i]'ların toplamının 9'a bölünebilmesi
+C) b[i]'ların toplamının 3'e bölünebilmesi fakat 9'a bölünememesi
+D) b[0] - b[1] + b[2] - ... toplamı 0
+E) b[0] - b[1] + b[2] - ... toplamının 3'e bölünebilmesi
+
+Soru 36
+-------
+0 (sıfır) anında beş adet iş bir bilgisayarda çalıştırılmak istenmektedir. İşler istenilen sırayla çalıştırılabilir ancak başlatılan bir iş tamamlanmadan bir diğerine geçmek mümkün değildir. Bu işlerin servis süreleri 2, 15, 3, 5 ve 25 zaman birimi olduğuna göre aşağıdakilerden hangisi bu işlerin ortalama bitim süresinin minimum değeridir?
+
+A) 50
+B) 208 / 5
+C) 92 / 5
+D) 10
+E) 5
+
+Soru 37
+-------
+
+Aşağıdaki seçeneklerden hangisi
+
+z := z * a ;
+y := y - 1 ;
+
+program parçasının başlangıcında doğru ise bitiminde de doğru kalır?
+
+A) a * y = z
+B) z = a ^ y
+C) a ^ b = z * (a ^ y)
+D) y > 0 & z = a ^ k
+E) Hiçbirisi
+
+Soru 38
+-------
+
+Bir ikili bağıntı tamsayı kümesinde R = {(x, y) | |y - x| <= 1} olarak tanımlanıyor. Bu bağıntı aşağıdaki hangi özellikleri sağlar.
+
+I. yansıma
+II. simetri
+III. geçişme
+
+A) Hiçbiri
+B) Sadece I ve II
+C) Sadece I ve III
+D) Sadece II ve III
+E) I, II ve III
+
+Soru 39
+-------
+
+sayac := 0;
+for p := 0 to N do
+	for q := p + 1 to N - p do
+		sayac := sayac + 1
+
+Yukarıdaki program parçası çalıştırıldığında sayaç değişkeninin son değeri N cinsinden ne olur? N değerini çift tam sayı olarak kabul ediniz.
+
+A) N * (N + 2) / 4
+B) N * (N + 1) / 2
+C) N * (N - 2) / 4
+D) N * (N - 1) / 2
+E) (N + 1) * (N + 1) / 2
+
+Soru 40
+-------
+
+Bir program, N şehrin birbirlerine uzaklıklarını (km cinsinden pozitif tam sayı), veri olarak kullanmaktadır. Bellek kullanımını en aza indirgemek için yapılan bir tasarımda, kaç tane tamsayı için yer ayrılmalıdır?
+
+A) N * (N - 1) / 2
+B) N * N / 2
+C) N * (N - 1)
+D) N * (N + 1) / 2
+E) N * N
+
+Soru 41
+-------
+
+5'i yanmış olan 15 ampulden 3'ü rastgele çekiliyor. Çekilenlerin en az birisinin yanmış olma olasılığı nedir?
+
+A) 24 / 91
+B) 45 / 91
+C) 67 / 91
+D) 46 / 91
+E) 1 / 3
+
+Soru 42
+-------
+
+Bir yer değiştirme işleminde iki sayının yerleri birbirleri ile değiştirilmekte ise
+
+[5, 4, 3, 1, 2]
+
+dizisini en az kaç yer değiştirme ile
+
+[1, 2, 3, 4, 5]
+
+sırasına sokabiliriz?
+
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Soru 43
+-------
+
+Bir ağacın herhangi bir dalı ucundan en fazla 3 dala ayrılabilmektedir. Bu dallandığı uç noktasına dallanma noktası diyoruz. Dallanmayan bir dalın ucunda da en fazla 5 yaprak bulunabilmektedir. Ağacın gövdesi de bir dal olarak sayılmaktadır ve bu durumda gövde üzerinden herhangi bir yaprağa varılana kadar en az 2, en çok 3 dallanma noktası geçilmektedir. Bu ağaçta en çok kaç yaprak olabilir?
+
+A) 27
+B) 135
+C) 40
+D) 15
+E) 96
+
+Soru 44
+-------
+
+Bir halkanın üzerine 10 farklı renkte boncuk (her renkten yalnızca bir tane) dizilip, bilezik yapılmaktadır. Sizce dizilişleri farklı olan böyle kaç bilezik imal edilebilir?
+
+A) 10!
+B) 9!
+C) 9! - 2
+D) 9! / 2
+E) 10! / 2
+
+Soru 45
+-------
+
+YOLBOL ülkesinde her şehirden her şehire özel bir otoyol vardır. Şehir sayısı 21 ise otoyol sayısı kaçtır?
+
+A) 21
+B) 420
+C) 210
+D) 441
+E) 105
+
+Soru 46
+-------
+
+Aşağıda 5 adadan oluşan bir takım adanın arasındaki gemi seferlerini ve seferlerin ne kadar sürdüğünü (saat olarak) görmektesiniz. Her sefer günde 10 defa yapılmaktadır, böyle de devam edecektir. Ancak tasarruf tedbiri olarak bazı hatlar iptal edilecektir. Bir kişinin en geç 24 saat içinde dilediği adadan dilediği adaya (gerekiyorsa aktarma yaparak) gidebilmesi koşulu ile en fazla tasarruf sağlayacak biçimde bazı hatları iptal edince, toplam tasarruf edilen gemi seyahat saati kaçtır?
+
+                   ___
+               ___/  /\
+            __/3    /  \
+           /____   /2   \
+          /\    \_/      \6
+         /  \1   /\_      \
+       4/    \  /  6\______\
+       /    __\/____________\
+      /  __/         7
+     /__/5
+
+A) 10 x 21
+B) 10 x 20
+C) 10 x 22
+D) 10 x 27
+E) Hiçbiri
+
+Soru 47
+-------
+
+52 kâğıtlık iskambil destesindeki kâğıtların tümü kullanılarak kaç farklı 4-el dağıtımı oluşturulabilir? (bir kişinin elindeki kâğıtların tümü ile diğer birisininki ile değişmesi durumunda dağılımın aynı kaldığı varsayılacaktır)
+
+A) 52! / 4!
+B) 52! / (13! ^ 4)
+C) 52! * 4!
+D) C(52, 4)
+E) 52! / (4 * 13!)
+
+Soru 48
+-------
+
+Belirli bir tür kedinin dişisi her yıl 4 yavru yavrulamakta ve bunların 2'si dişi olmaktadır. Bir dişi ve bir erkek kedi ile başlayan kedi kümesinde hiç ölüm olmadığını varsaymak koşulu ile 3 yıl sonra kaç kedi olur? (Yavruların doğunca hemen yavrulayabilir olduğunu varsayınız.)
+
+A) 16
+B) 28
+C) 54
+D) 108
+E) Hiçbiri
+
+Soru 49
+-------
+
+var A: array [1..N] of real;
+
+t := 0; i := 0;
+while t < M do
+	begin
+		t := t + A[i + 1];
+		i := (i + 1) mod N
+	end
+
+Yukarıdaki programda M ile N'nin M, N > 1 olmak üzere tamsayı sabitler olduğunu varsayınız. Aşağıdaki koşullardan hangisi yukarıdaki while döngüsünün daima sona ermesi için yeterli değildir?
+
+A) A dizisinde negatif sayı yoksa
+B) A dizisindeki sayıların ortalaması pozitif ise
+C) A dizisindeki ilk k(1 <= k <= N) sayının toplamı >= M ise
+D) A dizisindeki ilk k(1 < k < N) sayının toplamı > M ise
+E) A dizisindeki sayıların toplamı pozitif ise
+
+Soru 50
+-------
+
+N bir çift tamsayı ve N >= 4 olmak üzere N x N boyutlarında bir dama tahtası ve yeterli sayıda 2 x 1 boyutlarında pullar veriliyor. Dolayısıyla her bir pulla yanyana ya da üstüste iki dama karesini örtetek, fakat pulları üst üste getirmeden ve tahtadan dışarı taşırmadan tahtayı tamamen kaplamak mümkündür. Şimdi ise tahtadan iki kare çıkarılıyor. Hangi karelerin çıkarılması durumunda tahtanın pullarla tamamen kaplanması mümkün değildir?
+
+A) Herhangi bir sıranın sağ ucundaki kare ile aynı sıranın sol ucundaki kare
+B) Herhangi bir sütunun en üst sırasındaki kare ile bunun yanındaki sütunun en alt sırasındaki kare
+C) Herhangi bir sütunun en alt sırasındaki kare ile aynı sütunun en üst sırasındaki kare
+D) Herhangi bir sırada yan yana iki kare
+E) Herhangi bir sütunun en üst sırasındaki kare ile bu karenin üç (3) sıra altındaki kare
+
+ÇÖZÜMLER
+--------
+1) C
+2) C
+3) B
+4) A
+5) E
+6) B
+7) E
+8) B
+9) A
+10) B
+11) A
+12) D
+13) E
+14) A
+15) D
+16) D
+17) B
+18) A
+19) E
+20) E
+21) C
+22) D
+23) A
+24) C
+25) D
+26) C
+27) D
+28) E
+29) E
+30) A
+31) E
+32) E
+33) D
+34) C
+35) E
+36) C
+37) C
+38) B
+39) A
+40) A
+41) A
+42) B
+43) B
+44) D
+45) C
+46) D
+47) B
+48) C
+49) A
+50) B
