@@ -5,6 +5,7 @@
 
 #define U64 unsigned long long
 
+// Since the 08 and 09 "numbers" are not a valid octal number, I deleted their zeros so the compiler won't give us an error
 // I actually don't know if I should let these numbers end with "ULL"
 U64 int triangle[] =
 {
