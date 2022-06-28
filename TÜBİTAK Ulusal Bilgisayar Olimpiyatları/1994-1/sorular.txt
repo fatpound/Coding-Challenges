@@ -1,0 +1,735 @@
+SINAVA İLİŞKİN
+
+- Süre 180 dakikadır.
+- Sınav 25 genel yetenek, 15 bilgisayar bilgisi sorusundan oluşmaktadır.
+- Her iki bölüm de test usülünde olup çoktan seçmeli veya sonucun verilen boşluğa yazılması biçiminde cevaplandırılacaktır.
+- Her türlü elektronik hesap aracının kullanımı yasaktır.
+- Her türlü yardımcı materyal (kitap, not, vb.) kullanımı yasaktır.
+- Sorular zorluk sırasında DEĞİLDİR. Dolayısıyla yanıtlamaya geçmeden önce bütün soruları gözden geçirmeniz tavsiye olunur.
+- Gözetmenlerin sınav içeriğine ilişkin bilgileri yoktur, sorulara ilişkin soru sormayınız.
+
+GENEL YETENEK
+
+[1-4] soruları için açıklama
+
+Altı katlı bir binanın beş katında beş kişiye ait ofisler vardır. Bu katlar birden altıya kadar aşağıdan yukarıya doğru numaralandırılmışlardır.
+
+- Bu beş kişinin herbirisinin yalnızca bir ofisi vardır.
+- Cafer'in ofisi dördüncü kattan daha aşağıda bir kattadır.
+- Lale'nin ofisi ile Cafer'in ofisi arasındaki kat sayısı ile Kemal'in ofisi ile Cafer'in ofisi arasındaki kat sayısı aynıdır.
+- Namık'ın ofisi Mehmet ile Cafer'in ofislerinin arasındaki bir kattadır.
+- Kemal'in ofisi Namık'ın ofisinin ya hemen alt katında ya da hemen üst katındadır.
+
+Soru 1
+------
+
+Aşağıdakilerden hangisi en alt kattan başlayarak olası bir yerleşim şeklini gösterir? (Doğru bulduğunuz seçeneğin başındaki kutunun içine x (çarpı) işareti koyunuz)
+
+a) Cafer,Kemal,Namık,Lale,Mehmet
+b) Cafer,Lale,Kemal,Namık,Mehmet
+c) Lale,Cafer,Kemal,Namık,Mehmet
+d) Lale,Kemal,Cafer,Namık,Mehmet
+e) Lale,Kemal,Cafer,Mehmet,Namık
+
+Soru 2
+------
+
+Eğer Namık'ın ofisi 5. katta ise, şu katların hangisinde beş kişiden birinin ofisi bulunamaz?
+
+a) 1
+b) 2
+c) 3
+d) 4
+e) 6
+
+Soru 3
+------
+
+Eğer Mehmet'in ofisi 5. kattaysa, şu katların hangisinde beş kişiden birinin ofisi bulunamaz?
+
+a) 1
+b) 2
+c) 3
+d) 4
+e) 6
+
+Soru 4
+------
+
+Eğer 5. katta bir ofis yoksa, aşağıdakilerden hangisi kesinlikle doğrudur?
+
+a) Cafer'in ofisi 1. kattadır.
+b) Kemal'in ofisi 3. kattadır.
+c) Lale'nin ofisi 2. kattadır.
+d) Namık'ın ofisi 6. kattadır.
+e) Mehmet'in ofisi 4. kattadır.
+
+[5-9] soruları için açıklama
+
+Bir otomobil firmasının üç üretim hattında 5 değişik modelde: (V,W,X,Y,Z) otomobil üretilebilmektedir. Fakat fabrika üretimini her yıl sadece 3 farklı modelde, (herbiri bir üretim hattında olmak üzere) şu kurallara uygun olarak yapılmaktadır.
+
+- Z modeli üretildiği yıl Y modeli de üretilmelidir.
+- Eğer bir yıl X modeli üretilirse bir sonraki yıl X modeli üretilemez.
+- Bir yıl üretilen modellerden sadece bir tanesi bir sonraki yıl tekrar üretilebilir.
+
+Soru 5
+------
+
+Aşağıdakilerden hangisi arka arkaya iyi yıl üretilen modeller olabilir?
+
+a) Birinci yıl:[V,X,Z]; İkinci yıl:[W,Y,Z]
+b) Birinci yıl:[V,Y,Z]; İkinci yıl:[X,Y,Z]
+c) Birinci yıl:[W,X,Y]; İkinci yıl:[V,W,Z]
+d) Birinci yıl:[X,Y,Z]; İkinci yıl:[V,W,X]
+e) Birinci yıl:[X,Y,Z]; İkinci yıl:[V,W,Y]
+
+Soru 6
+------
+
+Eğer bir yıl W ve Z üretilirse, ertesi yıl ile ilgili hangisi doğrudur?
+
+a) Hem V hem X üretilmelidir
+b) Hem V hem Y üretilmelidir
+c) V üretilemez
+d) X üretilemez
+e) Y üretilemez
+
+Soru 7
+------
+
+Eğer V, W ve X bir yıl üretilirse; W, X ve Y iki yıl sonra üretilirse, aradaki yılda hangi üç model üretilmelidir?
+
+a) W,V,Y
+b) V,X,Y
+c) V,Y,Z
+d) W,Y,Z
+e) X,Y,Z
+
+Soru 8
+------
+
+Eğer bir yıl V üretilip Y üretilmezse ertesi yıl kaç değişik üretim yapılabilir?
+
+a) 1
+b) 2
+c) 3
+d) 4
+e) 5
+
+Soru 9
+------
+
+Eğer W, X ve Y üretilirse ertesi yılın üretiminde V,Y,Z modellerinden hangisi ya da hangileri bulunmalıdır?
+
+a) Yalnızca Y
+b) Yalnızca Z
+c) V ve Z
+d) Y ve Z
+e) V ve Y ve Z
+
+[10-13] soruları için açıklama
+
+Yapılacak olan bir yarışmaya sadece M,N,O,P,R ve S yarışmacı olarak katılmaktadır. Yarışma başlamadan yarışmacılar birden altıya kadar (üstten alta) sıralanmıştır.
+
+- M, ya 3. ya da 4. dür.
+- M, S'nin üstündedir.
+- P hem N'nin hem de O'nun üstündedir.
+- R, O'nun iki üstündedir.
+- Yarışma sırasında yarışmacı sadece tam bir üstündeki yarışmacıya ya da iki sıra üstündeki yarışmacıya müsabaka önerebilir. Eğer öneren kişi kazanırsa kaybedenle yer değiştirirler. Aksi takdirde sıralama değişmez.
+
+Soru 10
+-------
+
+Aşağıdaki sıralamalardan hangisi müsabakalardan önceki ilk sıralama olabilir?
+
+a) P,N,M,R,O,S
+b) N,R,M,O,S,P
+c) P,S,R,M,O,N
+d) P,R,M,O,S,N
+e) M,P,S,R,N,O
+
+Soru 11
+-------
+
+Eğer R müsabaka öncesi 1. konumda ise aşağıdakilerden hangisi kesinlikle doğrudur?
+
+a) M 3. dür
+b) S 6. dır
+c) P 2. dir
+d) O 4. dür
+e) N 5. dir
+
+Soru 12
+-------
+
+Eğer M ilk başta 3. ise, aşağıdakilerden hangisi ilk başta doğru olmalıdır?
+
+a) O, M'nin altındadır
+b) R, M'nin üstündedir
+c) N, R'den alttadır
+d) N ile S sıralamada komşudurlar
+e) P ile R sıralamada komşudurlar
+
+Soru 13
+-------
+
+Eğer ilk yarışma M tarafından O'ya teklif edilirse sıralamayla ilgili olarak aşağıdakilerden hangisi doğrudur?
+
+a) N 5. dir
+b) P 1. dir
+c) S 6. dır
+d) R, M'nin üstündedir
+e) N, O'nun üstündedir
+
+[14-18] soruları için açıklama
+
+Bir işyerinde çalışanlar:(A,B,C,D,E,F) bir dosyayı kendi aralarında birbirlerine vermektedir. Kimse dosyayı imha etmemekte ve kalıcı olarak saklayamamaktadır.
+
+- Her çalışan dosyayı başka bir çalışandan alabilir, ancak bir günden fazla elinde bulunduramaz.
+- F dosyayı daima E'ye verir
+- E dosyayı daima ya B'ye ya da C'ye verir.
+- B dosyayı daima ya C'ye ya da A'ya verir.
+- C dosyayı daima ya A'ya ya da F'ye verir.
+- A dosyayı daima F'ye verir.
+
+Soru 14
+-------
+
+Eğer dosya, C'den başlayarak, diğer çalışanlardan herhangi birisi dosyayı ikinci bir kez almadan, tekrar C'ye gelirse dosyayı kimler almıştır?
+
+a) Yalnızca A
+b) Yalnızca E
+c) Yalnızca F
+d) Hem B hem E
+e) Hem E hem F
+
+Soru 15
+-------
+
+Hangi çalışan dosyayı dolaştırmaya başlamalı ki dosya E'ye geldiğinde diğer çalışanlardan herhangi birisi dosyayı ikinci bir kez alamamış olsun?
+
+a) Yalnızca C
+b) Ya C, ya da A
+c) Ya C, ya da F
+d) Ya C, ya A, ya da F
+e) Ya C, ya A, ya F, ya da B
+
+Soru 16
+-------
+
+Aşağıdakilerden hangisi tam ve doğru bir çalışanlar listesidir ki bu çalışanlar dosyayı bir başkasına verdikten sonra dosya tekrar kendilerine döner?
+
+a) A,B
+b) B,C
+c) C,E
+d) E,F
+e) F,A
+
+Soru 17
+-------
+
+Eğer dosya F'den başlayıp diğer çalışanlardan herhangi birisi dosyayı ikinci kez almadan tekrar F'ye dönerse kaç değişik şekilde dolaşmış olabilir?
+
+a) 1
+b) 2
+c) 3
+d) 4
+e) 5
+
+Soru 18
+-------
+
+Eğer dosya C'den başlayıp diğer çalışanlardan herhangi birisi dosyayı ikinci kez almadan tekrar C'ye dönerse kaç değişik biçimde dolaşmış olabilir?
+
+a) 1
+b) 2
+c) 3
+d) 4
+e) 5
+
+[19-25] soruları için açıklama
+
+Her soruda kutunun içine dizinin takip eden sayısını yazınız. Ayrıca bu sonuca nasıl vardığınızı kısaca belirtiniz.
+
+Soru 19
+-------
+                      -==¬
+1    3     8    17    ¦  ¦
+                      L==-
+Soru 20
+-------
+                      -==¬
+0    8    24    48    ¦  ¦
+                      L==-
+Soru 21
+-------
+                      -==¬
+1    4    27    16    ¦  ¦
+                      L==-
+Soru 22
+-------
+                      -==¬
+3   1   6   1    9    ¦  ¦
+                      L==-
+Soru 23
+-------
+                      -==¬
+80    26    8     2   ¦  ¦
+                      L==-
+Soru 24
+-------
+                      -==¬
+5   4   9   13   22   ¦  ¦
+                      L==-
+Soru 25
+-------
+                      -==¬
+5   7   14   24   37  ¦  ¦
+                      L==-
+
+BİLGİSAYAR BİLGİSİ
+
+Aşağıdaki açıklamalar [26-31] soruları içindir, dikkatlice okuyunuz
+
+Bu sorular küçük harflerden oluşmuş harf dizileri ile ilgilidir. Her problemde bazı harf dizilerini GEÇERLİ bazılarını ise GEÇERSİZ diye adlandırıyor olacağız. Bir dizinin GEÇERLİ veya GEÇERSİZ olması o problem için verilmiş kurallar kümesi içinde verilmiş belirli bir tanesine uygun olup olmadığına bağımlıdır. Kurallar şu şekilde ifade edilirler:
+
+Bir sol taraf: Bu bir büyük harftir.
+
+-> : Sol tarafı sağ taraftan ayıran bir ok.
+
+Bir sağ taraf: Bu kuralın geçerli kabul ettiği bir harf dizisi (içinde büyük harfler de geçebilir).
+
+İki kuralın sol taraflarındaki harf aynı ise bu gösterim VEYA anlamındadır.
+Örnek:
+
+X -> ali
+X -> veli
+Y -> X
+Y -> XrX
+
+Kurallarının verilmiş olduğunu varsayınız. Bu durumda Y kuralına uyan harf dizileri şunlardır:
+
+ali
+veli
+alirveli
+velirali
+alirveli
+velirveli
+
+Örnek:
+
+X -> zam
+X -> garkX
+
+Kuralının verilmiş olduğunu varsayınız. Bu durumda X kuralına uyan harf dizileri görüldüğü gibi sonsuz sayıdadır ve ilk dört tanesi şunlardır:
+
+zam
+garkzam
+garkgarkzam
+garkgarkgarkzam
+.
+.
+.
+
+Soru 26
+-------
+
+Aşağıdaki kurallar kümesi tanımlanmıştır. Seçeneklerden hangileri X kuralına göre GEÇERLİdir? GEÇERLİ bulduklarınızın önündeki kutuya x (çarpı işareti) okyunuz.
+
+X -> a
+X -> bX
+X -> aX
+
+a) ab
+b) aabb
+c) abaaba
+d) bbaab
+e) aaaaaabaaaaaa
+
+Soru 27
+-------
+
+Aşağıdaki kurallar kümesi verilmiştir. Seçeneklerden hangileri X kuralına göre GEÇERLİdir. GEÇERLİ bulduklarınızın önündeki kutuya x (çarğı işareti) koyunuz
+
+X -> ba
+X -> Xb
+X -> aX
+
+a) aaabab
+b) baba
+c) babaaaaaba
+d) abbaaabab
+e) bbaaab
+
+Soru 28
+-------
+
+Aşağıdaki kurallar kümesi verilmiş olduğuna göre seçenklerin hangileri S kuralına göre GEÇERLİ bulduklarınızın önündeki kutuya x (çarpı işareti) koyunuz
+
+S -> x
+S -> aY
+Y -> Sb
+Y -> y
+
+a) axy
+b) aayb
+c) axbb
+d) aaaybb
+e) aaybb
+
+Soru 29
+-------
+
+Aşağıda tanımlanmış kurallar kümesinde C kuralı için bir sağ taraf kutu ile gösterilmiş boş bırakılmıştır. Kuralların sağında çerçece içine alınmış tüm harf dizilerinin verilen A kuralına göre GEÇERLİ olabilmesi için kutunun içindekinin ne olması gerektiğini bulunuz.
+
+A -> aB
+A -> bC
+B -> c
+B -> bA
+C -> c
+     -==¬
+C -> ¦  ¦
+     L==-
+
+Aya göre GEÇERLİ
+-==============¬
+¦- bc          ¦
+¦- abbcac      ¦
+¦- abac        ¦
+¦- abbc        ¦
+L==============-
+
+Soru 30
+-------
+
+Aşağıda soldaki kutunun içine bu kez kuralların hepsini siz yazıyor olacaksınız. Bu kurallar:
+
+- En fazla 3 satırdan oluşabilir. (Yani üç '->' (ok) kullanabilirsiniz)
+- En fazla 2 farklı büyük harf kullanılabilir.
+- Bu iki büyük harften dizilerin geçerliliği için kullanılacak olanın S olması gereklidir.
+- S, sağdaki kutu içinde belirtilmiş özellikteki bütün dizileri geçerli kabul etmelidir.
+
+-==============¬
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+L==============-
+
+S ye göre GEÇERLİ
+-==============¬
+¦- ab          ¦
+¦- acb         ¦
+¦- accb        ¦
+¦   .          ¦
+¦   .          ¦
+¦   .          ¦
+¦- ac...cb     ¦
+L==============-
+
+Soru 31
+-------
+
+Tersinden okunduğunda aynı olan dizilere Palindrom denir.
+
+- İçinde yalnızca a ve b harfleri geçebilen tüm palindromları GEÇERLİ kabul eden, palindrom olmayan dizileri GEÇERSİZ kabul eden
+- Birbirinden farklı iki büyük harf kullanmadan yazılmış.
+- 6 satırı geçmeyen kural kümesini oluşturup aşağıdaki kutunun içine yazınız.
+
+-==============¬
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+¦              ¦
+L==============-
+
+Soru 32
+-------
+
+Aşağıdaki PASCAL programını inceleyiniz.
+
+const M=3, N=4;
+var A:array[1..M,1..N] of integer;
+	p,q,i,j:integer;
+		...
+q:=A[1,1];
+for i:=1 to M do
+	begin
+		p:=A[i,1];
+		for j:=2 to N do
+			if A[i,j]<p then p:=A[i,j];
+		if q<p then q:=p;
+	end;
+		...
+- Yukarıdaki program parçası, A matrisinin değeri
+
+    -===============¬
+    ¦ 1   5  -4   9 ¦
+A = ¦ 8  -3   6   0 ¦
+    ¦ 2   4   6   5 ¦
+    L===============-
+                                                     -==¬
+olduğuna göre, q değişkeninde hangi değeri bırakır?  ¦  ¦
+                                                     L==-
+
+- Yukarıdaki program parçasının işletiminde toplam olarak kaç defa karşılaştırma işlemi yapıldığını M ve N cinsinden aşağıdaki kutuya belirtiniz:
+
+-==============¬
+¦              ¦
+L==============-
+
+Soru 33
+-------
+
+procedure P(var c1,c2,c3:T)
+begin
+	c3.a:=c1.a mod c2.a;
+	c3.b:=ln(c1.b*c2.a);
+end
+
+Yukarıdaki P yordamında kullanılan T veri türü ne şekilde tanımlanmış olmalıdır? Aşağıdaki kutu içini doldurarak yanıtlayınız.
+
+         -===============¬
+         ¦               ¦
+type T = ¦               ¦
+         ¦               ¦
+         L===============-
+
+Soru 34
+-------
+
+type renk=(siyah,beyaz,mavi,mor);
+var r1,r2:renk;
+
+Yukarıdaki tanımlara göre, eğer succ(r1)=prev(r2) ilişkisi varsa, ord(r1) ile ord(r2) arasındaki ilişki nedir? Aşağıdaki boş kutuya bir Pascal koşulu olarak yazınız:
+
+-==========================¬
+¦-========================¬¦
+¦¦                        ¦¦
+¦¦                        ¦¦
+¦¦                        ¦¦
+¦L========================-¦
+L==========================-
+
+Soru 35
+-------
+
+Bir ikili ağaç yapısında baba-oğul bağlantılarına ek olarak, kardeşler arasında da bağlantı kurulmuştur (bkz şekil).
+
+            *
+           / \
+          /   \
+         /     \
+        /       \
+       /         \
+      *-----------*
+     / \         / \
+    /   \       /   \
+   /     \     /     \
+  *-------*   *-------*
+ / \     /|   |\     / \
+*---*   *-*   *-*   *---*
+
+Ağaçtaki yaprak sayısı 2^n (n >= 1) ise yapıdaki toplam bağlantı sayısı n cinsinden nedir?
+
+-==============¬
+¦              ¦
+L==============-
+
+Soru 36
+-------
+                                                         -===========¬
+Aşağıdaki programın n = 6 ve verilen A dizisinin içeriği ¦1¦2¦3¦4¦5¦6¦ olduğunda çıktısını bulun.
+                                                         L===========-
+(Yanıtınızı programın sağındaki boşluğa yazınız)
+
+for i:=1 to n-1 do
+	begin
+		for j:=1 to n-1 do
+			begin
+				A[j] := A[j]+A[j+1];
+				write(A[j],' ');
+			end;
+		writeln;
+	end;
+
+Soru 37
+-------
+
+Aşağüıdaki program verilen A dizisinin elemanlarını ters olarak dizmektedir (dizide n eleman vardır). Boş satırları doldurun.
+
+for k:=1 to n do
+	begin
+		t:=A[k];
+		-==============¬
+		¦              ¦
+		¦==============¦
+		¦==============¦
+		¦              ¦
+		L==============-
+	end;
+
+Soru 38
+-------
+
+Aşağıdaki programın çıktısını bulun.
+                       -===============¬
+A dizisinin elemanları ¦3¦4¦1¦7¦2¦8¦5¦6¦ ve N=8.
+                       L===============-
+(Yanıtınızı programın sağındaki boşluğa yazınız)
+
+k:= N;
+while k>1 do
+	begin
+		j:=1;
+		while j<N do
+			begin
+				write(A[j],' ');
+				j:=j+k;
+			end;
+		writeln;
+		k := k div 2;
+	end;
+
+Soru 39
+-------
+
+N elemanlı bir A dizisinde pozitif ve negatif tam sayılar bulunmaktadır. Aşağıdaki program belirli bir usulle dizideki toplamı maksimum olan alt diziyi bulmaktadır. Boş bırakılan writeln argümanı programın bir değişkeni olup bu toplamı içermektedir. Bu değişkeni bulup kutunun içine yazın ve ayrıca bu programın maksimum alt dizinin bitiş indeksini de i adında bir değişkende vermesi için boş bırakılan program satırlarının içini doldurun. (Kutu ile gösterilmiş satırlardan herhangi birisinin boş kalmasına karar verirseniz kutunun içine bir şey yazmayınız)
+
+p:=0;
+s:=0;
+for k:=1 to N do
+begin
+	if A[k]+s > p then
+		begin
+			s:s+A[k];
+			p:=s;
+			-==============¬
+			¦              ¦
+			L==============-
+		end
+	else if A[k]+s>0 then
+		begin
+			s:=s+A[k];
+			-==============¬
+			¦              ¦
+			L==============-
+		end
+	else
+		begin
+			s:=0;
+			-==============¬
+			¦              ¦
+			L==============-
+		end;
+end;
+         -==¬
+writeln( ¦  ¦ );
+         L==-
+
+writeln(i);
+
+Örneğin N=12 ve A dizisinde
+-===================================¬
+¦ 1¦-2¦-3¦ 3¦-1¦ 3¦-8¦ 1¦ 3¦-1¦ 1¦-1¦
+L===================================-
+varsa bu program şu çıktıyı vermeli:
+
+5
+6
+
+çünkü 3 + (-1) + 3 = 5 maksimum alt diziyi vermekte ve bu alt dizi 6. dizinden (indeksten) bitmekte.
+
+Soru 40
+-------
+
+Aşağıdaki programın A dizisine n=15 için yüklediği değerleri bulun.
+
+s:=2;
+k:=1;
+while s<=(n+1) do
+	begin
+		j:= s div 2;
+		while j<=n do
+			begin
+				A[j]:=k;
+				j:=j+s;
+			end;
+		k:=k+1;
+		s:=2*s;
+	end;
+
+ÇÖZÜMLER
+--------
+
+1) c
+2) a
+3) e
+4) b
+5) e
+6) a
+7) c
+8) b
+9) e
+10) d
+11) c
+12) a
+13) d
+14) e
+15) e
+16) İPTAL EDİLDİ
+17) e
+18) d
+19) 31
+20) 80
+21) 125
+22) 1
+23) 0
+24) 35
+25) İPTAL EDİLDİ
+26) c VEYA e
+27) a
+28) b VEYA d
+29) cA
+30) S -> aB    B -> cB    B -> b
+31) S -> aSa   S -> bSb   S -> a   S -> b   S -> aa   S -> bb
+32) 2 / N*M
+33)
+
+record
+	a:integer;
+	b:real
+end;
+
+34) (ord(r1)-ord(r2)) = -2
+35) 3 * (2^n-1)
+36)
+
+3 5 7 9 11
+8 12 16 20
+20 28 36
+48 64
+112
+
+37) A[k]:=A[n+1-k] / A[n+1-k]:=t
+38)
+
+3
+3 2
+3 1 2 5
+
+39) i:=k; / / / p
+40) 1 2 1 3 1 2 1 4 1 2 1 3 1 2 1
