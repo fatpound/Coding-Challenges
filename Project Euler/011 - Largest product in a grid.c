@@ -3,9 +3,9 @@
 
 int main()
 {
-    int a, b, c, d, x, y, carpim, dikey = 0, enbuyuk = 0, sagcapraz = 0, solcapraz = 0, sat, sut;
-    
-    int dizi[20][20] =
+	int a, b, c, d, x, y, carpim, dikey = 0, enbuyuk = 0, sagcapraz = 0, solcapraz = 0, sat, sut;
+	
+	int dizi[20][20] =
 	{
 		{ 8, 02, 22, 97, 38, 15, 00, 40, 00, 75, 04, 05, 07, 78, 52, 12, 50, 77, 91,  8},
 		{49, 49, 99, 40, 17, 81, 18, 57, 60, 87, 17, 40, 98, 43, 69, 48, 04, 56, 62, 00},
