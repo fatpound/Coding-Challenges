@@ -30,46 +30,46 @@ int main()
 	};
 	
 	for (x = 0; x < 20; x++) // yatay carpim
-    {
-    	for (y = 0; y < 17; y++)
-    	{
-    		carpim = 1;
-    		carpim *= dizi[x][y] * dizi[x][y+1] * dizi[x][y+2] * dizi[x][y+3];
-    		
-    		if (enbuyuk < carpim)
-    		{
-    			sat = x;
-    			sut = y;
-    			
-    			a = dizi[x][y];
-    			b = dizi[x][y+1];
-    			c = dizi[x][y+2];
-    			d = dizi[x][y+3];
-    			
-    			enbuyuk = carpim;
+	{
+		for (y = 0; y < 17; y++)
+		{
+ 			carpim = 1;
+			carpim *= dizi[x][y] * dizi[x][y+1] * dizi[x][y+2] * dizi[x][y+3];
+			
+			if (enbuyuk < carpim)
+			{
+				sat = x;
+				sut = y;
+				
+				a = dizi[x][y];
+				b = dizi[x][y+1];
+				c = dizi[x][y+2];
+				d = dizi[x][y+3];
+				
+				enbuyuk = carpim;
 			}
 		}
 	}
 	
 	for (x = 0; x < 17; x++) // dikey carpim
-    {
-    	for (y = 0; y < 20; y++)
-    	{
-    		carpim  = 1;
-    		carpim *= dizi[x][y] * dizi[x + 1][y] * dizi[x + 2][y] * dizi[x + 3][y];
-    		
-    		if (enbuyuk < carpim)
-    		{
-    			dikey = 1;
-    			sat = x;
-    			sut = y;
-    			
-    			a = dizi[x][y];
-    			b = dizi[x + 1][y];
-    			c = dizi[x + 2][y];
-    			d = dizi[x + 3][y];
-    			
-    			enbuyuk = carpim;
+	{
+		for (y = 0; y < 20; y++)
+		{
+			carpim  = 1;
+			carpim *= dizi[x][y] * dizi[x + 1][y] * dizi[x + 2][y] * dizi[x + 3][y];
+			
+			if (enbuyuk < carpim)
+			{
+				dikey = 1;
+  				sat = x;
+				sut = y;
+				
+				a = dizi[x][y];
+				b = dizi[x + 1][y];
+				c = dizi[x + 2][y];
+				d = dizi[x + 3][y];
+				
+				enbuyuk = carpim;
 			}
 		}
 	}
