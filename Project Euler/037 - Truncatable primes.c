@@ -31,26 +31,11 @@ int DigitCount(int n)
 
 int IsTruncatable(int n, int mode)
 {
-	if (mode)
+	while ((mode ? (n /= 10) : (n %= Power(10, DigitCount(n) - 1))) > 0)
 	{
-		while ((n /= 10) > 0)
+		if (!IsPrime(n))
 		{
-			if (!IsPrime(n))
-			{
-				return 0;
-			}
-		}
-	}
-	else
-	{
-		int x = n;
-		
-		while ((n %= Power(10, DigitCount(n) - 1)) > 0)
-		{
-			if (!IsPrime(n))
-			{
-				return 0;
-			}
+			return 0;
 		}
 	}
 	
