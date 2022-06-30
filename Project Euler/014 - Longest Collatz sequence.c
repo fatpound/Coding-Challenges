@@ -3,34 +3,11 @@
 
 #define U64 unsigned long long
 
-U64 int CollatzCycle()
+U64 int Collatz(int N, int mode)
 {
-	U64 int i, t, cycle, greatest;
+	U64 int i, t, big = 0, cycle, greatest = 0;
 	
-	for (i = 1, greatest = 0; i <= 1000000; i++)
-	{
-		cycle = 1;
-		t = i;
-		
-		while (t != 1)
-		{
-			if (t & 1) t = t * 3 + 1;
-			else t >>= 1;
-	
-			cycle++;
-		}
-		
-		if (greatest < cycle) greatest = cycle;
-	}
-	
-	return (greatest);
-}
-
-U64 int CollatzNumber()
-{
-	U64 int i, t, big, cycle, greatest;
-	
-	for (i = 1, greatest = 0, big = 0; i <= 1000000; i++)
+	for (i = 1; i <= N; i++)
 	{
 		cycle = 1;
 		t = i;
@@ -50,12 +27,12 @@ U64 int CollatzNumber()
 		}
 	}
 	
-	return (big);
+	return (mode ? big : greatest);
 }
 
 int main()
 {
-	printf("aranan sayi : %llu\nadim sayisi : %llu", CollatzNumber(1, 1000000), CollatzCycle(1, 1000000));
+	printf("Number = %llu\nSteps  = %llu", Collatz(1000000, 1), Collatz(1000000, 0));
 	
 	getch();
 	return 0;
