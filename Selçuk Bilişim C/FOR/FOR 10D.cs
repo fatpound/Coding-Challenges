@@ -1,4 +1,4 @@
-static void Main(string[] args)
+static int Main(string[] args)
 {
 	for (int x = 0; x < 9; x++)
 	{
