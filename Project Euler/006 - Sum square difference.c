@@ -12,7 +12,7 @@ int main()
 		
 		if (a == 10)
 		{
-			c = c * c;
+			c *= c;
 		}
 	}
 	
