@@ -20,8 +20,8 @@ int main()
 			
 			C = C * (a - b) / (b + 1);
 			
-			// Her satırda kombinasyonun kısayolu kullanılmıştır
-			// Sağa doğru gittikçe;
+			// Her satÄ±rda kombinasyonun kÄ±sayolu kullanÄ±lmÄ±ÅŸtÄ±r
+			// SaÄŸa doÄŸru gittikÃ§e;
 			// C(n, b + 1) = (n / 1) * ((n - 1) / 2) * ((n - 2) / 3) * ... * (1 / (b + 1))
 		}
 		
