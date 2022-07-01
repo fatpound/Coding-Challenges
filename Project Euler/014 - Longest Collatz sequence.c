@@ -14,7 +14,7 @@ U64 int Collatz(int N, int mode)
 		
 		while (t != 1)
 		{
-			t = (t & 1 ? t * 3 + 1 : t >> 1);
+			t = (t & 1 ? (t * 3 + 1) : (t >> 1));
 			
 			cycle++;
 		}
