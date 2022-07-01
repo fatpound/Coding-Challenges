@@ -7,21 +7,21 @@ int main()
 	
 	printf("lutfen bir tamsayi giriniz > ");
 	scanf("%u", &x);
-
+	
 	for (i = 1U << 31; i; i >>= 1)
 	{
 		printf(x & i ? "1" : "0");
 	}
-
+	
 	printf("\n");
-
+	
 	y |= x;
-
+	
 	for (i = 1U << 31; i; i >>= 1)
 	{
 		printf(y & i ? "1" : "0");
 	}
-
+	
 	getch();
 	return 0;
 }
