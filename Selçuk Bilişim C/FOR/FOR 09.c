@@ -12,8 +12,8 @@ int main()
 	{
 		C = 1;
 		
-    	for (i = 1; i < n - a; i++, printf(" "));
-    	
+		for (i = 1; i < n - a; i++, printf(" "));
+		
 		for (b = 0; b <= a; b++)
 		{
 			printf("%d ", C);
