@@ -14,16 +14,19 @@ U64 int Collatz(int N, int mode)
 		
 		while (t != 1)
 		{
-			if (t & 1) t = t * 3 + 1;
-			else t >>= 1;
-	
+			t = (t & 1 ? t * 3 + 1 : t >> 1);
+			
 			cycle++;
 		}
 		
 		if (greatest < cycle)
 		{
 			greatest = cycle;
-			big = i;
+			
+			if (mode)
+			{
+				big = i;
+			}
 		}
 	}
 	
