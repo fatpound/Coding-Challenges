@@ -21,9 +21,9 @@ int IsPrime(int n)
 
 int nprime(int n)
 {
-	if (n < 1) return -1;
+	if (n < 2) return (n == 1);
 	
-	int i = 0, j = 0;
+	int i = 2, j = (n == 1);
 	
 	while (++i)
 	{
