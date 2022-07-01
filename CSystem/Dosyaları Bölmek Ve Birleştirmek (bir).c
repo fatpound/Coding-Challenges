@@ -63,5 +63,6 @@ int main(int argc, char *argv[])
 		printf("Source files cannot be opened!");
 	}
 	
+	fclose(dest);
 	return 0;
 }
