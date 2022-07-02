@@ -39,10 +39,10 @@ int main()
 {
 	char harf;
 	
-	printf("lutfen bir kelime giriniz: ");
+	printf("lutfen bir kelime giriniz : ");
 	gets(k);
 	
-	printf("silmek istediginiz harfi giriniz: ");
+	printf("silmek istediginiz harfi giriniz : ");
 	harf = getch();
 	
 	printf("%c",harf);
