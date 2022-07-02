@@ -13,7 +13,7 @@ U64 int DivCount(U64 int x)
 	{
 		c = 1;
 		
-		// Bölen böldüðü sürece devam çünkü 1'den büyük asal olmayan her doðal sayý asal çarpanlarýnýn çarpýmýdýr
+		// BÃ¶len bÃ¶ldÃ¼ÄŸÃ¼ sÃ¼rece devam Ã§Ã¼nkÃ¼ 1'den bÃ¼yÃ¼k asal olmayan her doÄŸal sayÄ± asal Ã§arpanlarÄ±nÄ±n Ã§arpÄ±mÄ±dÄ±r
 		while (n % i == 0)
 		{
 			n /= i;
@@ -24,7 +24,7 @@ U64 int DivCount(U64 int x)
 		p *= c;
 	}
 	
-	// n, geldiði gibi gidiyorsa veya n, asal sayý olarak kaldýysa p'yi ikiye katla (n == x || ~-n) (x sayýsý pozitif varsayýlacaktýr)
+	// n, geldiÄŸi gibi gidiyorsa veya n, asal sayÄ± olarak kaldÄ±ysa p'yi ikiye katla (n == x || ~-n) (x sayÄ±sÄ± pozitif varsayÄ±lacaktÄ±r)
 	return (p * ((n == x || n > 1) ? 2 : 1));
 }
 
@@ -34,8 +34,7 @@ U64 Euler12(U64 int n)
 	
 	while (DivCount(x) <= n)
 	{
-		tri++;
-		x += tri;
+		x += ++tri;
 	}
 	
 	return (x);
