@@ -6,7 +6,7 @@ int main()
 	int i, sayac = 0, tekharf, isaret = 0, bas, son;
 	char d[101];
 	
-	printf("lutfen bir cumle giriniz: ");
+	printf("lutfen bir cumle giriniz : ");
 	gets(d);
 	
 	for (i = 1; d[i] != '\0'; i++)
