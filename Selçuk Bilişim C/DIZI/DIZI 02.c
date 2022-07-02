@@ -6,7 +6,7 @@ int main()
 	int i, boyut;
 	char t, k[80];
 	
-	printf("lutfen bir kelime giriniz:");
+	printf("lutfen bir kelime giriniz :");
 	gets(k);
 	
 	for (boyut = 0; k[boyut] != '\0'; boyut++);
