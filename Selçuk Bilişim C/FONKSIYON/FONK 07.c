@@ -23,7 +23,7 @@ void Cizim()
 			else printf(" ");
 		}
 		
-		if (c!=8) printf("\n");
+		if (c != 8) printf("\n");
 	}
 }
 
