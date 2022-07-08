@@ -27,7 +27,7 @@ int main()
 	{
 		c = 1;
 		
-    	for (i = (n - a) * 2; i >= 0; i--, printf(" "));
+		for (i = (n - a) * 2; i >= 0; i--, printf(" "));
 		
 		for (b = 0; b <= a; b++)
 		{
