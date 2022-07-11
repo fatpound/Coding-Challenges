@@ -6,7 +6,7 @@ int main(void)
 	unsigned int k;
 	
 	printf("lutfen bir sayi giriniz : ");
-	scanf("%d", &k);
+	scanf("%u", &k);
 	
 	printf("%u", k ^ 255);
 	
