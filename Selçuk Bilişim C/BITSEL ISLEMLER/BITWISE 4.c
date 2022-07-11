@@ -8,7 +8,7 @@ int main(void)
 	printf("lutfen bir sayi giriniz: ");
 	scanf("%u", &x);
 	
-	printf("%d\n", x ^ (4294967295 - 1));
+	printf("%d", x ^ (4294967295 - 1));
 	
 	getch();
 	return 0;
