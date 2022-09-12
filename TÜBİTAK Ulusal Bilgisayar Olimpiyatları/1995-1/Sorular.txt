@@ -1,0 +1,725 @@
+[1-7] soruları için açıklama
+
+Bir lise öğrencisi ders programına göre üç ders alacaktır. Mevcut dersler beş kategoriye ayrılmıştır: Matematik, İngilizce, Sosyal Bilgiler, Fen Bilgisi ve Güzel Sanatlar. Ders programı hazırlanırken şu koşulların sağlanması gereklidir:
+
+- Alınacak dersler en az iki ayrı kategoride olmalıdır.
+- Eğer İngilizce kategorisinden bir ders alınırsa, Güzel Sanatlar kategorisinden ders alınamaz.
+- Eğer Güzel Sanatlar kategorisinden bir ders alınırsa, İngilizce kategorisinden ders alınamaz.
+- Eğer Fen Bilgisi kategorisinden bir ders alınırsa, Matematik kategorisinden ders alınamaz.
+- Eğer Matematik kategorisinden bir ders alınırsa, Fen Bilgisi kategorisinden ders alınamaz.
+- Sosyal Bilgiler kategorisinden bir ders, ancak Güzel Sanatlar kategorisinden bir ders alınırsa alınabilir.
+
+Soru 1
+------
+
+Aşağıdaki gruplardan hangisi doğru bir ders programı oluşturur?
+
+A) Fen Bilgisi dersi, İngilizce dersi, Güzel Sanatlar dersi
+B) Matematik dersi, Fen Bilgisi dersi, Sosyal Bilgiler dersi
+C) Matematik dersi, Sosyal Bilgiler dersi, Güzel Sanatlar dersi
+D) İngilizce dersi, Sosyal Bilgiler dersi, Güzel Sanatlar dersi
+E) Matematik dersi, Fen Bilgisi dersi, Güzel Sanatlar dersi
+
+Soru 2
+------
+
+Aşağıdakilerden hangisi mümkün olamayacak bir ders programıdır?
+
+A) İki Matematik dersi, bir Fen Bilgisi dersi
+B) İki Fen Bilgisi dersi, bir Matematik dersi
+C) İki Güzel Sanatlar dersi, bir Matematik dersi
+D) İki Sosyal Bilgiler dersi, bir Güzel Sanatlar dersi
+E) Bir Sosyal Bilgiler dersi, iki Güzel Sanatlar dersi
+
+Soru 3
+------
+
+Aşağıdakilerden hangisi bir Sosyal Bilgiler dersinin yanına geldiği zaman doğru bir program oluşturur?
+
+A) Bir Matematik dersi, bir Fen Bilgisi dersi
+B) Bir Güzel Sanatlar dersi, bir İngilizce dersi
+C) İki Güzel Sanatlar dersi
+D) İki Matematik dersi
+E) İki İngilizce dersi
+
+Soru 4
+------
+
+Eğer derslerden birisi Matematik kategorisinden, diğeri İngilizce kategorisindense üçüncü ders hangi kategoriden olmalıdır?
+
+A) İngilizce
+B) Güzel Sanatlar
+C) Matematik
+D) Fen Bilgisi
+E) Sosyal Bilgiler
+
+Soru 5
+------
+
+Aşağıdakilerden hangi ders çifti alınırsa düzgün bir ders programı oluşturulamaz?
+
+A) Bir Matematik dersi, bir Güzel Sanatlar dersi
+B) Bir Fen Bilgisi dersi, bir Güzel Sanatlar dersi
+C) Bir Matematik dersi, bir İngilizce dersi
+D) Bir Sosyal Bilgiler dersi, bir Fen Bilgisi dersi
+E) Bir Fen Bilgisi dersi, bir İngilizce dersi
+
+Soru 6
+------
+
+Eğer Fen Bilgisi kategorisinden bir ders alınırsa, aşağıdakilerden hangi ders çifti alınırsa düzgün bir ders programı oluşturulabilir?
+
+A) İki Matematik dersi
+B) İki Fen Bilgisi dersi
+C) İki İngilizce dersi
+D) Bir Fen Bilgisi dersi, bir İngilizce dersi
+E) Bir Matematik dersi, bir Sosyal Bilgiler dersi
+
+Soru 7
+------
+
+Düzgün bir ders programında şu kategorilerin hangisinden iki ders birden bulunamaz?
+
+A) İngilizce
+B) Güzel Sanatlar
+C) Matematik
+D) Fen Bilgisi
+E) Sosyal Bilgiler
+
+[8-14] soruları için açıklama
+
+Organik bileşikler üzerinde çalışmalarda bulunan bir araştırmacı 5 değişik molekül bulmuştur. Bu moleküller; T, W, X, Y, Z; aşağıdaki kurallara göre birleşerek bir molekül zinciri oluştururlar:
+
+- Bir molekül zinciri üç ya da daha fazla molekülden oluşur.
+- T asla zincirin sonunda bulunamaz.
+- Eğer W zincirde varsa, mutlaka birden fazla sayıda olmak zorundadır.
+- X asla Y'nin yanında zincir oluşturamaz.
+- Eğer Y zincirde bulunuyorsa Z'de aynı zincirde bulunur.
+- Eğer Z zincirde bulunuyorsa Y asla zincirin sonunda bulunamaz.
+
+Soru 8
+------
+
+Aşağıdakilerden hangisi doğru bir molekül zinciridir?
+
+A) TXYZ
+B) YTXX
+C) WZTY
+D) WWXZ
+E) ZYXW
+
+Soru 9
+------
+
+Aşağıdakilerden hangisi yanlış bir molekül zinciridir?
+
+A) XXTZ
+B) ZXWWZ
+C) WXZYW
+D) WWWZXW
+E) YWTZXX
+
+Soru 10
+-------
+
+WWTYZX zinciri aşağıdakilerden hangisi yapılarak başka bir molekül zincirine çevrilemez?
+
+A) T'yi W ile değiştirerek
+B) Y'yi X ile değiştirerek
+C) X'i T ile değiştirerek
+D) T ve Z'nin yerlerini değiştirerek
+E) Y ve X'in yerlerini değiştirerek
+
+Soru 11
+-------
+
+Aşağıdakilerden hangisi tek başına geçerli bir molekül zinciri oluşturamaz fakat, moleküllerin yerleri değiştirildiğinde geçerli bir molekül zinciri oluşturur?
+
+A) XYTX
+B) WXTY
+C) TXXY
+D) WTTW
+E) WXXW
+
+Soru 12
+-------
+
+Aşağıdakilerin hangisinde _ işareti başka bir molekülle değiştirilirse geçerli bir molekül zinciri elde edilir?
+
+A) WW_YTX
+B) WXTY_Y
+C) X_XYTY
+D) _XXTWY
+E) _XXTWT
+
+Soru 13
+-------
+
+_WWZ zincirinde _ yerine hangi molekül getirilirse doğru bir molekül zinciri oluşturulabilir?
+
+  I- Z
+ II- W
+III- T
+
+A) Sadece I
+B) Sadece II
+C) I ve II
+D) I ve III
+E) I, II, III
+
+Soru 14
+-------
+
+Aşağıdakilerden hangisine/hangilerine Z molekülü eklenip, moleküllerin yerleri değiştirilirse geçerli bir molekül zinciri haline gelir?
+
+  I- XYXT
+ II- WTTZ
+III- XXYW
+
+A) Sadece I
+B) Sadece II
+C) Sadece III
+D) I ve III
+E) I, II, III
+
+Soru 15
+-------
+
+Bir satranç tahtası üzerine konulan iki taşın koordinatları (i[1], j[1]) ve (i[2], j[2]) olarak (i <= i[1], i[2], j[1], j[2] <= 8) veriliyor. Bu iki taşın aynı çapraz üzerinde bulunma koşulunun ifadesi aşağıdakilarden hangisidir?
+
+A) (i[1] + j[1]) mod 8 = (i[2] + j[2]) mod 8
+B) (|i[1] - j[1]| = |i[2] - j[2]|) VEYA (i[1] + j[1] = i[2] + j[2])
+C) (i[1] - j[1] = i[2] - j[2]) VEYA (i[1] + j[1] = i[2] + j[2])
+D) (i[1] - j[1] = i[2] - j[2]) VEYA (j[1] - i[1] = j[2] - i[2])
+E) i[1] = j[2] VE i[2] = j[1]
+
+Soru 16
+-------
+
+Aşağıdaki program parçası, a ve b tamsayı değişkenlerini birbirine aktarmalıdır.
+
+a := a + b;
+     -==============¬
+b := ¦              ¦;
+     L==============-
+
+     -==============¬
+a := ¦              ¦;
+     L==============-
+
+Bunun için gereken ikinci ve üçüncü atama deyimlerini boşlukları doldurarak tamamlayınız.
+
+Soru 17
+-------
+
+Her elemanı 4 byte tutan N x N boyutlarında bir simetrik matrisi mümkün oldukça az bellek kullanarak saklamak istiyoruz. Bunun için kaç byte'lık bir bellek alanı gerekir?
+
+Hatırlatma: M bir simetrik matris ise M[i, j] = M[j, i], 1 <= i, j <= N
+
+A) 4N(N-1)
+B) N(N-4)
+C) 4N(N+1)
+D) 2N(N-1)
+E) 2N(N+1)
+
+Soru 18
+-------
+
+Aşağıdaki ağaçların hangisi diğerlerinden farklıdır?
+
+A)
+
+        171
+        / \
+       /   \
+      /     \
+     /       \
+    /         \
+  119         151
+              /
+             /
+            /
+          132
+          / \
+        112 118
+
+B)
+
+         171
+         / \
+        /   \
+       /     \
+      /       \
+     /         \
+   151         119
+               / \
+              /   \
+             /     \
+           132     118
+                     \
+                     112
+
+C)
+
+             171
+             / \
+            /   \
+           /     \
+          /       \
+         /         \
+       151         132
+       /           / \
+      /           /   \
+     /           /     \
+   112         119     118
+
+D)
+
+             171
+             / \
+            /   \
+           /     \
+          /       \
+         /         \
+       118         151
+       /           / \
+      /           /   \
+     /           /     \
+   112         119     132
+
+E)
+
+         171
+         / \
+        /   \
+       /     \
+      /       \
+     /         \
+   132         151
+               / \
+              /   \
+             /     \
+           119     112
+           /
+         118
+
+Soru 19
+-------
+
+Aşağıdaki döngü içinde *** ile gösterilen kısımda k tamsayı değişkeninin değerinin birinci döngüde 0, ikinci döngüde 1, üçüncü döngüde tekrar 0, dördüncü döngüde tekrar 1, ... olması isteniyor. Bunun için gereken atama deyimlerini verilen boşluklara yazınız.
+
+     -==============¬
+k := ¦              ¦;
+     L==============-
+REPEAT
+	     -==============¬
+	k := ¦              ¦;
+	     L==============-
+	***
+UNTIL bitti;
+
+Soru 20
+-------
+
+13*(16^3) + 11*(16^2) + 9*16 + 3 sayısının ikili düzende gösterimindeki 1'lerin sayısı kaçtır?
+
+A) 7
+B) 8
+C) 9
+D) 10
+E) 12
+
+21 ve 22 numaralı sorular için aşağıdaki program parçası kullanılacaktır.
+
+L1: BEGIN
+	VAR a, b, c: INTEGER;        (1)
+	VAR d, e : REAL;
+	-==============================¬
+	¦                              ¦
+	L==============================-
+
+L2: BEGIN
+	VAR a, f : INTEGER;
+	VAR d, e : REAL;
+	-==============================¬
+	¦                              ¦
+	L==============================-
+    END;
+END;
+
+Soru 21
+-------
+
+L2 bloğunda geçen g ve h değişkenleri en iyi nasıl nitelendirilebilir?
+
+A) Boş (dummy) değişken
+B) Parametrik değişken
+C) Global değişken
+D) Yerel (local) değişken
+E) Özyineli (recursive) değişken
+
+Soru 22
+-------
+
+Eğer L1-L2, L1 bloğunun L2 bloğu dışında kalan kısmı olarak tanımlanırsa, programda (1) ile işaretlenmiş cümlede geçen a ve b değişkenlerinin geçerli olduğu alan (scope) aşağıdakilerden hangisidir?
+
+A) a ve b L1'de
+B) a L1'de, b L1-L2'de
+C) a L1-L2'de, b L1'de
+D) a ve b L1-L2'de
+E) a ve b L2'de
+
+Soru 23
+-------
+
+x >= 0, y >= 0 için f(x, y) fonksiyonu aşağıdaki şekilde tanımlanmıştır. y >= 0 için f(1, y) aşağıdakilerden hangisine eşittir?
+
+f(0, y)         = y + 1
+f(x + 1, 0)     = f(x, 1)
+f(x + 1, y + 1) = f(x, f(x + 1, y))
+
+A) 2
+B) y + 1
+C) y + 2
+D) 2y + 3
+E) Yukarıdakilerden hiçbirisi
+
+24 ve 25 numaralı sorular için aşağıdaki açıklama kullanılacaktır.
+
+100 öğrenciden 32'si Matematik, 20'si Fizik, 45'i Biyoloji, 15'i Matematik ve Biyoloji, 7'si Matematik ve Fizik, 10'u Fizik ve Biyoloji çalışmakta olup 30'u da üç dersin hiçbirisini çalışmamaktadır.
+
+Soru 24
+-------
+
+Her üç dersi çalışan öğrenci sayısı kaçtır?
+
+                    -==¬
+	Yanıtınız : ¦  ¦
+                    L==-
+
+Soru 25
+-------
+
+Üç dersten yalnızca tek ders çalışan öğrenci sayısı kaçtır?
+
+                    -==¬
+	Yanıtınız : ¦  ¦
+                    L==-
+
+Soru 26
+-------
+
+Aşağıdaki program bir dizinin (array) en küçük elemanını bulmaktadır.
+
+VAR
+i, j : INTEGER;
+a    : ARRAY [1 .. N] OF REAL ;
+
+BEGIN
+	j := 1;
+	FOR i := 2 TO N DO
+		IF a[i] < a[j] THEN
+		j := i
+END
+
+Bu programda her seferinde IF-THEN cümlesi test edildiğinde, aşağıdaki koşullardan hangisi veya hangileri doğru olur?
+
+  I- 2 <= i <= N
+ II- a[j] <= a[k], her k öyleki 1 <= k < i
+III- a[j] <= a[k], her k öyleki 2 <= k <= i
+
+A) Sadece I
+B) Sadece II
+C) Sadece I ve II
+D) Sadece I ve III
+E) I, II ve III
+
+Soru 27
+-------
+
+İkili gösterimde 16 basamaklı ve tam olarak 7 tane 1 içeren kaç değişik sayı vardır?
+
+A) 12680
+B) 30280
+C) 19810
+D) 407829
+E) 11440
+
+Soru 28
+-------
+
+Aşağıdaki program parçasında P1, P2 ve P3 altyordam (procedure), B mantıksal (logical) değişken ise,
+
+P1 ;
+REPEAT
+	P2;
+UNTIL B ;
+P3 ;
+
+Bu programdaki REPEAT-UNTIL döngüsü WHILE-DO döngüsüne yanlış olarak aşağıdaki program parçası olarak çevriliyor:
+
+i	P1;
+ii      WHILE NOT B DO
+iii     	P2;
+iv      P3;
+
+Aşağıdaki seçeneklerden hangisi bu yanlışı düzeltir?
+
+A) ii satırındaki NOT B, B ile değiştirilirse
+B) i satırı, ii ve iii satırları arasına taşınırsa
+C) iii satırının bir kopyası, i ve ii satırları arasına eklenirse
+D) iv satırının bir kopyası, ii ve iii satırları arasına eklenirse
+E) i satırındaki P1, if B then P1 ile değiştirilirse
+
+Soru 29
+-------
+
+Aşağıda verilen f dizisinin 7. elemanını (f(7)) bulmak için toplam kaç defa 3 numaralı tanım, (iii) kullanılacaktır?
+
+  i) f(0) = 1
+ ii) f(1) = 1
+iii) f(n) = f(n - 1) + f(n - 2), n > 1
+
+                    -==¬
+	Yanıtınız : ¦  ¦
+                    L==-
+
+Soru 30
+-------
+
+Atama (assignment) işleminin birim zamanda yapıldığını varsayalım. Aşağıda ardarda 6 atama işlemi veriliyor.
+
+A := B + C
+B := A - B
+C := A * E
+D := A / F
+E := B - C
+F := A + B
+
+Eğer istediğimiz kadar birbirinin aynı işlemci kullanarak bu atama işlemlerini paralelleştirmek istersek, atamaların hepsini minimum ne kadar birimlik bir zamanda tamamlayabiliriz, öyleki bu atamaları sırasıyla teş işlemcide çalıştırdığımızda aynı sonucu versin.
+
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5
+
+Soru 31
+-------
+
+Aşağıda tanımlanan fonksiyonu f(4) için ne sonuç üretecektir?
+
+FUNCTION f(x : INTEGER) : INTEGER;
+BEGIN
+	IF (x = 1) OR (x = 0) THEN
+		f := 1
+	ELSE
+		f := x * f(x - 1) - 2 * x * f(x - 2)
+END;
+
+                    -==¬
+	Yanıtınız : ¦  ¦
+                    L==-
+
+Soru 32
+-------
+
+Bir f fonksiyonu şu şekilde tanımlanmış olsun:
+
+f(1) = 0
+f(2) = 1
+f(3) = 2
+f(n) = f(n - 1) + f(n - 3), n > 3
+
+Aşağıdaki programda, verilen f dizisinin ilk 50 elemanını hesaplamak için boş bırakılan satırları doldurunuz.
+
+a := 0; WRITELN(a);
+b := 1; WRITELN(b);
+c := 2; WRITELN(c);
+
+FOR k:= 4 TO 50 DO BEGIN
+
+	-==============¬
+	¦              ¦;
+	L==============-
+
+	WRITELN(d);
+
+	-==============¬
+	¦              ¦;
+	L==============-
+	-==============¬
+	¦              ¦;
+	L==============-
+	-==============¬
+	¦              ¦;
+	L==============-
+
+END;
+
+Soru 33
+-------
+
+Aşağıdaki program iki doğal sayının ortak bölenlerinin en küçüğünü bulmaktadır. Bunun için boş bırakılan yere aşağıdaki seçeneklerden hangisi gelmelidir?
+
+FUNCTION gcd(a,b)
+BEGIN
+	IF      (a = b) THEN gcd = a
+	ELSE IF (a > b) THEN gcd = gcd(a-b, b)
+                                       -==============¬
+	ELSE IF (b > a) THEN gcd = gcd(¦              ¦)
+                                       L==============-
+END;
+
+A) b, a-b
+B) a-b, b
+C) a, a-b
+D) a, b-a
+E) b, b-a
+
+34 ve 35 numaralı sorular için aşağıdaki açıklama kullanılacaktır.
+
+a := 1;
+b := 10;
+
+FOR c := 1 TO 10 DO BEGIN
+	WHILE (a<c) DO
+		a := a+1;
+	WHILE (c<b) DO
+		b := b-1;
+END;
+
+Soru 34
+-------
+
+Yukarıdaki programda kaç adet toplama ve kaç adet çıkarma işlemi yapılmaktadır?
+
+                 -==¬                        -==¬
+Toplama Sayısı : ¦  ¦        Çıkarma Sayısı: ¦  ¦
+                 L==-                        L==-
+
+Soru 35
+-------
+
+Yukarıdaki programda yapılan işlemler sonunda a ve b'nin değerleri nelerdir?
+
+    -==¬           -==¬
+a : ¦  ¦        b: ¦  ¦
+    L==-           L==-
+
+Soru 36
+-------
+
+Aşağıdaki program verilen A dizisinin elemanlarını yeniden hesaplayarak dizmektedir (dizide n eleman vardır). Bunun için şöyle bir yöntem uygulanmaktadır: 1. elemanın yeni değeri 0 artı 1. eleman, 2. elemanın yeni değeri 1. eleman artı 2. eleman, 3. elemanın yeni değeri 2. eleman artı 3. eleman şeklinde bulunmaktadır. Ancak bu işlemler yapılırken hep dizinin önceki değerleri kullanılmaktadır. Yani, örneğin 3. eleman hesaplanırken dizide verilmiş olan 2. eleman ile 3. eleman toplanarak 3. elemanın yeni değeri bulunmaktadır.
+
+Örneğin A dizisi
+-===================¬
+¦ 2 ¦ 3 ¦ 1 ¦ 4 ¦ 5 ¦
+L===================-
+verilirse program bunu
+-===================¬
+¦ 2 ¦ 5 ¦ 4 ¦ 5 ¦ 9 ¦
+L===================-
+haline çevirecek.
+
+Buna göre boş satırları verilen program parçasına ek başka değişken kullanmaksızın doldurun.
+
+t1 := 0;
+FOR k := 1 TO n DO BEGIN
+	t2 :0 A[k];
+	-==============¬
+	¦              ¦;
+	L==============-
+	-==============¬
+	¦              ¦;
+	L==============-
+END;
+
+[37-40] soruları için açıklama
+
+İkili Arama: Sıralı bir doğal sayılar listesinde herhangi bir sayının aranması için şöyle bir yöntem kullanılabilir:
+
+- liste boşsa aranan sayı bulunamamıştır ve işlem sona erer,
+- aranan sayı en ortadaki sayı ile karşılaştırılır, eğer iki sayı eşitse aranan sayı bulunmuştur ve işlem biter,
+- bu karşılaştırma sonucu eğer aranan sayı daha büyük çıkarsa listenin ilk yarısı (ortadaki eleman dahil olmak üzere) atılarak aynı işlem kalan liste üzerinde tekrar ettirilir,
+- bu karşılaştırma sonucu eğer aranan sayı daha küçük çıkarsa listenin ikinci yarısı (ortadaki eleman dahil olmak üzere) atılarak aynı işlem kalan liste üzerinde tekrar ettirilir.
+
+Soru 37
+-------
+
+Listede 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 varsa 1'i arayıp bulmak için kaç adet karşılaştırma işlemi yapmak gerekir?
+
+                    -==¬
+	Yanıtınız : ¦  ¦
+                    L==-
+
+Soru 38
+-------
+
+Listede 1, 2, ..., 2**n - 2, 2**n - 1 varsa 1'i arayıp bulmak için n cinsinden kaç adet karşılaştırma işlemi yapmak gerekir?
+
+                    -==¬
+	Yanıtınız : ¦  ¦
+                    L==-
+
+Soru 39
+-------
+
+En iyi durumda en az kaç adet karşılaştırma işlemi yaparak aranan bir sayı bulunabilir?
+
+                    -==¬
+	Yanıtınız : ¦  ¦
+                    L==-
+
+Soru 40
+-------
+
+Listede 2**n - 1 adet sayı varsa ve aradığımız sayı listede yoksa kaç adet karşılaştırma işlemi yaparak bunu tesbit edebiliriz?
+
+                    -==¬
+	Yanıtınız : ¦  ¦
+                    L==-
+
+ÇÖZÜMLER
+--------
+
+1) e
+2) c
+3) c
+4) d
+5) d
+6) a
+7) a
+8) d
+9) e
+10) c
+11) İPTAL EDİLDİ
+12) a
+13) e
+14) a
+15) c
+16) a-b / a-b
+17) e
+18) b
+19) 0 / 1-k
+20) d
+21) d
+22) c
+23) c
+24) 5
+25) 48
+26) c
+27) e
+28) c
+29) 20
+30) c
+31) -32
+32) d:=c+a; / a:=b; / b:=c; / c:=d;
+33) İPTAL EDİLDİ
+34) 9 / 9
+35) 19 / 1
+36) A[k]:=A[k]+t1; / t1:=t2;
+37) 4
+38) n
+39) 1
+40) n
