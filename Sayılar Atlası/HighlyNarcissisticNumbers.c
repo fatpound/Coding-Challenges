@@ -11,7 +11,7 @@ int DigitCount(int value)
 	return (value > 0 ? (1 + DigitCount(value / 10)) : 0);
 }
 
-int IsNarcissistic(int n)
+int IsHighlyNarcissistic(int n)
 {
 	int i, j = DigitCount(n), count, on = 1, sum = 0;
 	
@@ -29,7 +29,7 @@ int main()
 	
 	for (n = 1; n < 10000000; n++)
 	{
-		if (IsNarcissistic(n))
+		if (IsHighlyNarcissistic(n))
 		{
 			printf("%d\n", n);
 		}
