@@ -16,7 +16,7 @@ int Sigma(int n)
 
 int IsMajestical(int n)
 {
-	return ((Sigma(n) - n - 1) ? ((n - 1) % (Sigma(n) - n - 1) == 0) : 0);
+	return ((Sigma(n) - n - 1) ? !((n - 1) % (Sigma(n) - n - 1)) : 0);
 }
 
 int main()
