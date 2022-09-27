@@ -10,7 +10,7 @@ int main()
 	
 	d = (int*) malloc(sizeof(int) * n);
 	
-	for (i = 0; i < n; scanf("%d", &d[i++]), sum += d[i++] > h ? 2 : 1);
+	for (i = 0; i < n; scanf("%d", &d[i]), sum += d[i++] > h ? 2 : 1);
 	
 	printf("\n%d", (free(d), sum));
 	
