@@ -1,6 +1,6 @@
-namespace Numbers
+namespace ProjectEuler
 {
-	internal class Program
+	internal class Solution28
 	{
 		static void Main(string[] args)
 		{
