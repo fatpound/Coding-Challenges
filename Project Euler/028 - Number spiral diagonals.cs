@@ -43,7 +43,7 @@ namespace Numbers
 				}
 			}
 
-			Console.Write(sum);
+			Console.WriteLine(sum);
 		}
 	}
 }
