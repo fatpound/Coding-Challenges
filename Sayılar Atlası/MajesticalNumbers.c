@@ -23,7 +23,7 @@ int main()
 {
 	int n;
 	
-	for (n = 6; n < 1000,0; n++)
+	for (n = 6; n < 10000; n++)
 	{
 		if (IsMajestical(n))
 		{
