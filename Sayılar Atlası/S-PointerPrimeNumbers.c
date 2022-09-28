@@ -42,7 +42,7 @@ int main()
 	
 	for (n = 3; n < 1000; n += 2)
 	{
-		if (IsSPointerPrime(n))
+		if (IsSPointerPrime(n)) // Sum-Pointer Primes
 		{
 			printf("%d\n", n);
 		}
