@@ -42,7 +42,7 @@ int main()
 		RotateZeros(d, x);
 	}
 	
-	for (i = 0; i < x; d[i] ? printf("%d ", d[i]) : (i = x), i++);
+	for (i = 0; i < x; d[i] ? printf("%d ", d[i++]) : (i = x));
 	
 	getch();
 	return 0;
