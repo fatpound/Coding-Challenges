@@ -34,7 +34,7 @@ int NthPrime(int n)
 	return (i);
 }
 
-int IsCompozite(int n)
+int IsComposite(int n)
 {
 	if (IsPrime(n)) return 0;
 	
@@ -76,7 +76,7 @@ int main()
 	
 	for (i = 3; i < 10000; i += 2)
 	{
-		if (IsCompozite(i))
+		if (IsComposite(i))
 		{
 			for (p = NthPrime(j = 1); p <= i - 2; p = NthPrime(++j))
 			{
