@@ -2,7 +2,7 @@ namespace ProjectEuler
 {
 	internal class Solution28
 	{
-		static void Main(string[] args)
+		static int Main(string[] args)
 		{
 			int x = 1001;
 			int[,] d = new int[x, x];
@@ -44,6 +44,8 @@ namespace ProjectEuler
 			}
 
 			Console.WriteLine(sum);
+			
+			return 0;
 		}
 	}
 }
