@@ -37,7 +37,7 @@ int main()
 	
 	for (n = 4; n < 1000; n++)
 	{
-		if (IsMidPrime(n)) // Balanced Prime Numbers
+		if (IsMidPrime(n)) // Balanced Primes
 		{
 			printf("%d\n", n);
 		}
