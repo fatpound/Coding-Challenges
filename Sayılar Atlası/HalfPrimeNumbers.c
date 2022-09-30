@@ -23,7 +23,7 @@ int IsHalfPrime(int n)
 {
 	if (IsPrime(n)) return 0;
 	
-	int i, j = n, count = 0, flag = 0;
+	int i, count = 0, flag = 0;
 	
 	for (i = 2; i <= n; i++)
 	{
