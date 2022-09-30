@@ -21,7 +21,7 @@ int IsPrime(int n)
 
 int IsComposite(int n)
 {
-	int i, j = n, count = 0, flag = 0;
+	int i, count = 0, flag = 0;
 	
 	for (i = 2; i <= n; i++)
 	{
