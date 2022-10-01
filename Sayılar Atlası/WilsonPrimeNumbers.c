@@ -31,13 +31,13 @@ int IsWilsonPrime(int n)
 
 int main()
 {
-	int x;
+	int n;
 	
-	for (x = 3; x < 14; x += 2)
+	for (n = 3; n < 14; n += 2)
 	{
-		if (IsWilsonPrime(x))
+		if (IsWilsonPrime(n))
 		{
-			printf("%d\n", x);
+			printf("%d\n", n);
 		}
 	}
 	
