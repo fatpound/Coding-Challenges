@@ -8,7 +8,7 @@ int GCD(int x, int y)
 
 /*
 
- k                       a
+ k                      a
 
 16                   2184
 22                3521210
