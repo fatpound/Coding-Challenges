@@ -47,12 +47,13 @@ int IsComposite(int n)
 			while ((n % i) == 0)
 			{
 				if (repeat)
+				{
 					return 0;
-				
-				if (!flag)
-					flag = 1;
+				}
 				
 				n /= i;
+				
+				flag = 1;
 				repeat = 1;
 			}
 			
@@ -60,11 +61,8 @@ int IsComposite(int n)
 				count++;
 		}
 		
-		if (flag)
-			flag = 0;
-		
-		if (repeat)
-			repeat = 0;
+		flag   = 0;
+		repeat = 0;
 	}
 	
 	return (count > 1);
