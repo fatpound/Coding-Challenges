@@ -31,7 +31,7 @@ int solution(int index, int offset, int sum)
 		return sum;
 	}
 	
-	int left  = solution(index + offset, offset + 1, sum);
+	int left  = solution(index + offset    , offset + 1, sum);
 	int right = solution(index + offset + 1, offset + 1, sum);
 	
 	return ((left < right) ? right : left);
