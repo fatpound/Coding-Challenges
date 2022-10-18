@@ -58,7 +58,9 @@ int IsComposite(int n)
 			}
 			
 			if (flag)
+			{
 				count++;
+			}
 		}
 		
 		flag   = 0;
