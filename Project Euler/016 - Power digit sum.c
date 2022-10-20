@@ -19,7 +19,7 @@ int main()
 		}
 	}
 	
-	// printf("%s", p);
+	// printf("%s", p); // 2**1000
 	
 	for (i = 0; i < count; i++)
 	{
