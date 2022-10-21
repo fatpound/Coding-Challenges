@@ -23,12 +23,15 @@ void AddLong(char *f, char *s1, char *s2, char *s3, char *s4, int j)
 {
 	int i, len = strlen(s1), top, elde;
 	
-	if (j == 1) RotateLeft(s2, j);
-	if (j == 2) RotateLeft(s3, j);
+	if (j > 0) RotateLeft(s2, 1);
+	if (j > 1) RotateLeft(s3, 2);
 	
 	for (elde = 0, i = len - 1; i >= 0; i--)
 	{
-		top = s1[i] + s2[i] + s3[i] - 48 * 3 + elde;
+		top = s1[i] - 48 + elde;
+		
+		if (j > 0) top += (s2[i] - 48);
+		if (j > 1) top += (s3[i] - 48);
 		
 		s4[i] = (top % 10) + 48;
 		
