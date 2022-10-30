@@ -22,8 +22,7 @@ void print_random_date(void) // 01.01.1900 - 31.12.2000
 	{
 		d = rand() % (m % 2 ? 31 : 30);
 	}
-	
-	if (m > 7)
+	else if (m > 7)
 	{
 		d = rand() % (m % 2 ? 30 : 31);
 	}
