@@ -16,7 +16,7 @@ int main()
 	for (n = 2; n <= N; t[n] = 2LL * n * n - 1, n++);
 	for (n = 2; n <= N; n++)
 	{
-		if (t[n] == (2ULL * n * n - 1))
+		if (t[n] == (2LL * n * n - 1))
 		{
 			count++;
 		}
@@ -41,7 +41,7 @@ int main()
 		}
 	}
 	
-	printf("%llu", count);
+	printf("%lld", count);
 	
 	return (!getch());
 }
