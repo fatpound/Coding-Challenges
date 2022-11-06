@@ -43,5 +43,5 @@ int main()
 	
 	printf("%llu", count);
 	
-	return 0;
+	return (!getch());
 }
