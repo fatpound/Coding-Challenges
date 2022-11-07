@@ -32,6 +32,7 @@ namespace ProjectEuler
 
             return 1;
         }
+        
         static int IsLychrel(BigInteger n)
         {
             for (int i = 0; i < 50; i++)
