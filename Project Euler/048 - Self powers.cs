@@ -1,9 +1,9 @@
 using System.Diagnostics;
 using System.Numerics;
 
-namespace ConsoleAppCS
+namespace ProjectEuler
 {
-    internal class Program
+    internal class Solution48
     {
         static void Main(string[] args)
         {
