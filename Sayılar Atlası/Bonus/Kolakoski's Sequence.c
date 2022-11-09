@@ -18,8 +18,7 @@ int main()
 			d[i + k++] = n;
 		}
 		
-		n = (d[i + --k] == 2 ? 1 : 2);
-		k++;
+		n = (d[i + k - 1] == 2 ? 1 : 2);
 	}
 	
 	for (i = 0; i < ARR_LEN; printf("%d ", d[i++]));
