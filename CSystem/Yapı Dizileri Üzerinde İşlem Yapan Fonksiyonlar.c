@@ -83,9 +83,9 @@ void sort_info(Person *ptr, size_t size)
 	}
 	
 	int count = 1, *indexes = malloc(sizeof(int));
-	char c; // bir önceki harf
+	char c; // bir Ã¶nceki harf
 	
-	for (c = ptr[i = 0].fname[0], indexes[0] = 0; i < size; c = ptr[i++].fname[0]) // Farklý harfle baþlayan kelimelerin baþlangýç indisleri
+	for (c = ptr[i = 0].fname[0], indexes[0] = 0; i < size; c = ptr[i++].fname[0]) // FarklÃ½ harfle baÃ¾layan kelimelerin baÃ¾langÃ½Ã§ indisleri
 	{
 		if (ptr[i].fname[0] != c)
 		{
@@ -95,7 +95,7 @@ void sort_info(Person *ptr, size_t size)
 	
 	for (k = 0; k < count - 1; k++)
 	{
-		for (i = indexes[k]; i < indexes[k + 1] - 1; i++) // Soyadlara göre sýralama
+		for (i = indexes[k]; i < indexes[k + 1] - 1; i++) // Soyadlara gÃ¶re sÃ½ralama
 		{
 			for (j = min = i; ++j < indexes[k + 1];)
 			{
@@ -131,8 +131,8 @@ void display_info(/*const */Person *ptr, size_t size)
 	
 	for (i = 0; i < size; i++)
 	{
-		printf("\n%d -> %s\n", i + 1, ptr[i].fname);
-		printf(  "%d -> %s\n", i + 1, ptr[i].name);
+		printf("\n%d -> %s\n",     i + 1, ptr[i].fname);
+		printf(  "%d -> %s\n",     i + 1, ptr[i].name);
 		printf("%d -> %d/%d/%d\n", i + 1, ptr[i].bdate.day, ptr[i].bdate.month, ptr[i].bdate.year);
 	}
 }
