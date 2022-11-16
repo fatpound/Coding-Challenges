@@ -57,4 +57,3 @@ int main()
 	
 	return (!getch());
 }
-
