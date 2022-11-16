@@ -45,11 +45,11 @@ int main()
 	a[k] = rand() % 20;
 	
 	ptr = unique_copy(a, SIZE);
-	printf("dizi yazdiriliyor \n");
+	printf("dizi yazdiriliyor\n");
 	
 	for (k = 0; k < SIZE; printf("%3d ", a[k++]));
 	
-	printf("\n\ndinamik dizi yazdiriliyor \n");
+	printf("\n\ndinamik dizi yazdiriliyor\n");
 	
 	for (k = 0; k < SIZE - repeat; printf("%3d ", ptr[k++]));
 	
