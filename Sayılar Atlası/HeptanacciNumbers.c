@@ -18,7 +18,7 @@ int main()
 {
 	int n;
 	
-	for (n = 6; n < 26; n++)
+	for (n = 6; n < 26; n++) // A066178
 	{
 		printf("%d\n", Y(n));
 	}
