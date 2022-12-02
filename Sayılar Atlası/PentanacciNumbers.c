@@ -16,7 +16,7 @@ int main()
 {
 	int n;
 	
-	for (n = 5; n < 26; n++)
+	for (n = 5; n < 26; n++) // A001591
 	{
 		printf("%d\n", B(n));
 	}
