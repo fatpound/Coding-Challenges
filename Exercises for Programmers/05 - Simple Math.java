@@ -1,4 +1,4 @@
-package s5;
+package solution5;
 
 import java.util.*;
 
@@ -12,7 +12,7 @@ public class Main
         for (int i = 0; i < 2; i++)
         {
             System.out.printf("What is the %s number? ", i == 0 ? "first" : "second");
-            num[i] = Integer.valueOf(scanf.next());
+            num[i] = Integer.valueOf(scanf.nextLine());
         }
         
         System.out.println("");
