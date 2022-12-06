@@ -43,5 +43,5 @@ int main()
 	
 	printf("%lld", count);
 	
-	return (!getch());
+	return !_getch();
 }
