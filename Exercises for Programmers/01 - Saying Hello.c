@@ -11,6 +11,5 @@ int main()
 	gets(name);
 	printf("Hello, %s, nice to meet you!", name);
 	
-	getch();
-	return 0;
+	return !_getch();
 }
