@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
 
-int Power(int x, int n)
-{
-	return (n > 0 ? (Power(x, n - 1) * x) : 1);
-}
-
 int DigitSum(int value)
 {
 	return (value > 0 ? (value % 10 + DigitSum(value / 10)) : 0);
