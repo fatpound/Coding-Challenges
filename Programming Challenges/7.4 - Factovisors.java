@@ -37,6 +37,8 @@ public class PC
             f[i] = i + 1;
         }
         
+        boolean end = true;
+        
         int temp = m;
         
         for (int i = 2; i <= temp; i += (i == 2 ? 1 : 2))
@@ -77,11 +79,17 @@ public class PC
                     
                     if (count != 0)
                     {
+                        end = false;
                         System.out.println(m + " does not divide " + n + "!"); 
                         break;
                     }
                 }
             }
+        }
+        
+        if (end == true)
+        {
+            System.out.println(m + " divides " + n + "!");
         }
         
         // ANOTHER SOLUTION
