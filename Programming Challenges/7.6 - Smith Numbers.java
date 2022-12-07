@@ -1,4 +1,4 @@
-package pc; // programming challenges
+package pc;
 
 import java.util.*;
 
