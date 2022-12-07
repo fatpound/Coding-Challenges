@@ -2,7 +2,7 @@ package pc;
 
 import java.util.*;
 
-public class PC
+public class Main
 {
     public static boolean IsPrime(Integer n)
     {
