@@ -3,7 +3,7 @@ package pc;
 import java.util.*;
 import java.math.*;
 
-public class PC
+public class Main
 {
     public static boolean IsPrime(int n)
     {
