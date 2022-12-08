@@ -39,7 +39,7 @@ internal class PC
     public static BigInteger[] results;
     public static int[] steps;
 
-    static void IsOk(BigInteger n)
+    static void Try(BigInteger n)
     {
         for (int i = 0; i < 1000; i++)
         {
@@ -64,7 +64,7 @@ internal class PC
 
         for (int i = 0; i < input; i++)
         {
-            IsOk(Convert.ToInt32(Console.ReadLine()));
+            Try(Convert.ToInt32(Console.ReadLine()));
         }
 
         Console.WriteLine();
