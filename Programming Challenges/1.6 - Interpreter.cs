@@ -18,7 +18,7 @@ using System.Collections.Generic;
 
 // 0ab ifnz b jmp a
 
-namespace PC; // Programmed by Weylyn
+namespace PC; // Programmed by Weylyn...
 
 internal class PC
 {
