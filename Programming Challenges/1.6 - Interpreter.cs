@@ -1,5 +1,23 @@
 using System.Collections.Generic;
 
+// 100 halt 
+
+// number
+// 2ab mov a, b
+// 3ab add a, b
+// 4ab mul a, b
+
+// register
+// 5ab mov a, b
+// 6ab add a, b
+// 7ab mul a, b
+
+// adress
+// 8ab mov a, [b]
+// 9ab add [b], a
+
+// 0ab ifnz b jmp a
+
 namespace PC; // Programmed by Weylyn
 
 internal class PC
@@ -32,9 +50,9 @@ internal class PC
                 if (ram[p] == 100)
                     break;
 
-                int s = ram[p] / 100 % 10;
+                int s = ram[p] / 100;
                 int a = ram[p] / 10 % 10;
-                int b = ram[p] / 1 % 10;
+                int b = ram[p] % 10;
 
                 switch (s)
                 {
