@@ -39,7 +39,7 @@ internal class PC
     public static BigInteger[] results;
     public static int[] steps;
 
-    static int IsOk(BigInteger n)
+    static void IsOk(BigInteger n)
     {
         for (int i = 0; i < 1000; i++)
         {
@@ -48,11 +48,11 @@ internal class PC
                 results[index] = n;
                 steps[index++] = i + 1;
 
-                return 1;
+                return;
             }
         }
 
-        return 0;
+        return;
     }
 
     public static int Main(string[] args)
