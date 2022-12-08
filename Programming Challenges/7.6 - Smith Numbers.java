@@ -39,7 +39,7 @@ public class Main
                 while ((n % i) == 0)
                 {
                     sopd += DigitSum(i);
-                    n    /= i;
+                    n /= i;
                 }
             }
         }
