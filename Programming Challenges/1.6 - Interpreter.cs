@@ -11,8 +11,7 @@ internal class PC
         int ramptr = 0;
 
         int index = 2;
-        string[] lines = Console.In.ReadToEnd().Split('\n',
-            StringSplitOptions.TrimEntries);
+        string[] lines = Console.In.ReadToEnd().Split('\n', StringSplitOptions.TrimEntries);
 
         int testCase = int.Parse(lines[0]);
         for (int t = 0; t < testCase; t++)
