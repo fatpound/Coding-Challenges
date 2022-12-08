@@ -13,10 +13,14 @@ public class Main
     {
         Scanner scanf = new Scanner(System.in);
         
-        int a  = scanf.nextInt(), b  = scanf.nextInt();
-        int ad = DigitCount(a), bd = DigitCount(b);
+        int a  = scanf.nextInt()
+        int b  = scanf.nextInt();
         
-        int carry = 0, count = 0;
+        int ad = DigitCount(a);
+        int bd = DigitCount(b);
+        
+        int carry = 0;
+        int count = 0;
         
         for (int i = 0; i < Math.max(ad, bd); i++)
         {
