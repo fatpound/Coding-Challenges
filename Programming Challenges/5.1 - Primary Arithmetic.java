@@ -13,7 +13,7 @@ public class Main
     {
         Scanner scanf = new Scanner(System.in);
         
-        int a  = scanf.nextInt()
+        int a  = scanf.nextInt();
         int b  = scanf.nextInt();
         
         int ad = DigitCount(a);
