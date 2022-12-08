@@ -51,8 +51,6 @@ internal class PC
                 return;
             }
         }
-
-        return;
     }
 
     public static int Main(string[] args)
