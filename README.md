@@ -1,5 +1,5 @@
 # Coding Challenges
-> with special thanks to Weylyn... -> github.com/alihakankurt
+> with special thanks to Weylyn... -> https://github.com/alihakankurt
 -------------------
 1) https://web.archive.org/web/20211028203912/https://csystem.org/calisma-sorulari
 2) https://codeforces.com/problemset
