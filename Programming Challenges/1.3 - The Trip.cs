@@ -26,9 +26,7 @@ internal class PC
 
         exchange /= 2;
 
-        float temp = average - (int)average;
-
-        temp *= 100;
+        float temp = (average - (int)average) * 100;
 
         if (temp >= 1)
         {
