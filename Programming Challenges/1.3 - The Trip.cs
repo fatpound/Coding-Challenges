@@ -28,9 +28,11 @@ internal class PC
 
         float temp = average - (int)average;
 
-        while (temp > 0.01f)
+        temp *= 100;
+
+        if (temp >= 1)
         {
-            temp -= 0.01f;
+            temp -= (int)temp;
         }
 
         if (temp != 0)
