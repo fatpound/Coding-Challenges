@@ -23,15 +23,14 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2)
         {
             list = (struct ListNode*) malloc(sizeof(struct ListNode));
             end = list;
-            end->next = NULL;
         }
         else
         {
             end->next = (struct ListNode*) malloc(sizeof(struct ListNode));
             end = end->next;
-            end->next = NULL;
         }
-
+        
+        end->next = NULL;
         end->val = sum % 10;
         sum /= 10;
     }
