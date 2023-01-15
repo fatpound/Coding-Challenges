@@ -1,5 +1,4 @@
 # Coding Challenges
--------------------
 1) https://web.archive.org/web/20211028203912/https://csystem.org/calisma-sorulari
 2) https://codeforces.com/problemset
 3) https://leetcode.com/problemset/all
