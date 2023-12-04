@@ -1,6 +1,7 @@
 // https://edabit.com/challenge/NgtAmTiF3sg4X2D38
 
 #include <cmath>
+#include <limits>
 
 size_t bitRotate(size_t n, size_t m, bool d)
 {
