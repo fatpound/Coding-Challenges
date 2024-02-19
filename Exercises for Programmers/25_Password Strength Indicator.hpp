@@ -17,7 +17,7 @@ namespace efp::q25
 
             if (index < 0 || index >= resultStrings_.size())
             {
-                throw std::logic_error("Tried to access an index which is out of the bounds of the array!");
+                throw std::runtime_error("Tried to access an index which is out of the bounds of the array!");
             }
 
             std::cout << "The password " << password << " is a " << resultStrings_[index] << " password.";
