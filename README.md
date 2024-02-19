@@ -8,5 +8,6 @@
 7) https://projecteuler.net/archives
 8) Sayılar Atlası - 6254491753
 9) Selçuk Bilişim C Vize-Final Çalışma Soruları
-10) https://bilimolimpiyatlari.tubitak.gov.tr/tr/gecmis-sinav-sorulari -> Bilgisayar Dalı
+10) The Modern Cpp Challenge - 9781788993869
+11) https://bilimolimpiyatlari.tubitak.gov.tr/tr/gecmis-sinav-sorulari -> Bilgisayar Dalı
 > I. II. III. IV. Ulusal Bilgisayar Olimpiyadı Soruları ve Cevapları (1993-1996)
