@@ -11,3 +11,5 @@
 10) The Modern C++ Challenge - 9781788993869
 11) https://bilimolimpiyatlari.tubitak.gov.tr/tr/gecmis-sinav-sorulari -> Bilgisayar Dalı
 > I. II. III. IV. Ulusal Bilgisayar Olimpiyadı Soruları ve Cevapları (1993-1996)
+
+Note: I realise that there are "some" memory leaks. I might fix them in the future. If I can't, then you must do it when using those codes on your system.
