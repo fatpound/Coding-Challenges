@@ -11,4 +11,4 @@
 10) https://bilimolimpiyatlari.tubitak.gov.tr/tr/gecmis-sinav-sorulari -> Bilgisayar Dalı
 > I. II. III. IV. Ulusal Bilgisayar Olimpiyadı Soruları ve Cevapları (1993-1996)
 
-Note: I realise that there are "some" memory leaks. The codes are really old. I might fix them in the future. If I don't, then you must do it yourself when using those codes on your system.
+NOTE: I realise that there are "some" memory leaks. The codes are really old. I might fix them in the future. If I don't, then you must do it yourself when using those codes on your system.
