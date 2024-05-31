@@ -1,7 +1,5 @@
 #pragma once
 
-#include "TMCC.hpp"
-
 #include <cstdint>
 
 #include <iostream>
@@ -13,8 +11,8 @@ using namespace std::literals::string_literals;
 
 namespace fatpound::coding_challenges::tmcc::q23
 {
-    template <typename T, std::size_t ByteSize>
-    concept RangedContainer = requires(T t)
+    template <class C, std::size_t ValueType_Size>
+    concept RangedContainer = requires(C t)
     {
         { t.size()   };
 
@@ -23,16 +21,18 @@ namespace fatpound::coding_challenges::tmcc::q23
         { t.cbegin() };
         { t.cend()   };
 
-        typename T::value_type;
+        typename C::value_type;
 
-        requires std::unsigned_integral<typename T::value_type>;
+        requires std::unsigned_integral<typename C::value_type>;
 
-        requires sizeof(typename T::value_type) == ByteSize;
+        requires sizeof(typename C::value_type) == ValueType_Size;
     };
 
-    template <typename T>
-    requires RangedContainer<T, 1u>
-    auto IntToHexStr(const T& container, const bool& uppercase = true) -> std::string
+    template <class C>
+    concept RangedContainer_i8 = RangedContainer<C, 1>;
+
+    template <RangedContainer_i8 C>
+    auto Int8ToHexString(const C& container, const bool& uppercase = true) -> std::string
     {
         static constexpr auto uppercase_hexlist = "0123456789ABCDEF";
         static constexpr auto lowercase_hexlist = "0123456789abcdef";

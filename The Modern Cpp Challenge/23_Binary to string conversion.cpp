@@ -6,12 +6,12 @@ namespace fatpound::coding_challenges::tmcc::q23
     {
         std::vector<std::uint8_t> v1 = { 0xBA, 0xAD, 0xF0, 0x0D };
 
-        std::cout << IntToHexStr(v1)        << std::endl;
-        std::cout << IntToHexStr(v1, false) << std::endl;
+        std::cout << Int8ToHexString(v1)        << std::endl;
+        std::cout << Int8ToHexString(v1, false) << std::endl;
 
         std::vector<std::uint8_t> v2 = { 1, 2, 3, 4, 5, 6 };
 
-        std::cout << IntToHexStr(v2)        << std::endl;
-        std::cout << IntToHexStr(v2, false) << std::endl;
+        std::cout << Int8ToHexString(v2)        << std::endl;
+        std::cout << Int8ToHexString(v2, false) << std::endl;
     }
 }
