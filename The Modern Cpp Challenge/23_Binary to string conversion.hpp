@@ -3,24 +3,24 @@
 #include <cstdint>
 
 #include <iostream>
+#include <sstream>
+#include <iomanip>
 #include <vector>
 #include <string>
 #include <type_traits>
-
-using namespace std::literals::string_literals;
 
 namespace fatpound::coding_challenges::tmcc::q23
 {
     template <class C, std::size_t ValueType_Size>
     concept RangedContainer = requires(C t)
     {
-        { t.size()   };
+        { t.size()   } -> std::convertible_to<std::size_t>;
 
-        { t.begin()  };
-        { t.end()    };
-        { t.cbegin() };
-        { t.cend()   };
-
+        { t.begin()  } -> std::input_or_output_iterator;
+        { t.end()    } -> std::input_or_output_iterator;
+        { t.cbegin() } -> std::input_or_output_iterator;
+        { t.cend()   } -> std::input_or_output_iterator;
+        
         typename C::value_type;
 
         requires std::unsigned_integral<typename C::value_type>;
@@ -29,30 +29,27 @@ namespace fatpound::coding_challenges::tmcc::q23
     };
 
     template <class C>
-    concept RangedContainer_i8 = RangedContainer<C, 1>;
+    concept RangedContainer_i8 = RangedContainer<C, 1ull>;
 
     template <RangedContainer_i8 C>
-    auto Int8ToHexString(const C& container, const bool& uppercase = true) -> std::string
+    auto Int8ToHexString(const C& container, const bool uppercase = true) -> std::string
     {
-        static constexpr auto uppercase_hexlist = "0123456789ABCDEF";
-        static constexpr auto lowercase_hexlist = "0123456789abcdef";
+        std::ostringstream oss;
 
-        const auto& hexlist = (uppercase ? uppercase_hexlist : lowercase_hexlist);
-
-        std::string result{};
-
-        result.reserve(container.size());
+        if (uppercase)
+        {
+            oss.setf(std::ios_base::uppercase);
+        }
 
         for (const auto& item : container)
         {
-            const auto& a = (item / 16) % 16;
-            const auto& b = item % 16;
-        
-            result += hexlist[a];
-            result += hexlist[b];
+            oss << std::hex
+                << std::setw(2)
+                << std::setfill('0')
+                << static_cast<std::uint16_t>(item);
         }
 
-        return result;
+        return oss.str();
     }
     
     void Run();
