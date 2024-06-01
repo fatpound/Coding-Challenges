@@ -3,6 +3,8 @@
 #include <iostream>
 #include <numeric>
 
+namespace fs = std::filesystem;
+
 namespace fatpound::coding_challenges::tmcc::q35
 {
     auto GetDirectorySize(const fs::path& path, const bool follow_symlinks) -> std::uintmax_t
@@ -21,15 +23,15 @@ namespace fatpound::coding_challenges::tmcc::q35
                 : fs::directory_options::skip_permission_denied
             };
 
-            std::uintmax_t size = 0u;
-
-            for (const auto& inner_path : rdit)
-            {
-                if (fs::is_regular_file(inner_path)) [[likely]]
+            const auto& size = std::accumulate(
+                fs::begin(rdit),
+                fs::end(rdit),
+                0ull,
+                [](const auto& total, const auto& dir_entry) -> std::uintmax_t
                 {
-                    size += fs::file_size(inner_path);
+                    return total + (fs::is_regular_file(dir_entry) ? fs::file_size(dir_entry) : 0ull);
                 }
-            }
+            );
 
             return size;
         }
