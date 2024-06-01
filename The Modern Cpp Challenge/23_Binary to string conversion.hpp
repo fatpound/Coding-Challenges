@@ -12,14 +12,14 @@
 namespace fatpound::coding_challenges::tmcc::q23
 {
     template <class C, std::size_t ValueType_Size>
-    concept RangedContainer = requires(C t)
+    concept RangedContainer = requires(C cont)
     {
-        { t.size()   } -> std::convertible_to<std::size_t>;
+        { cont.size()   } -> std::convertible_to<std::size_t>;
 
-        { t.begin()  } -> std::input_or_output_iterator;
-        { t.end()    } -> std::input_or_output_iterator;
-        { t.cbegin() } -> std::input_or_output_iterator;
-        { t.cend()   } -> std::input_or_output_iterator;
+        { cont.begin()  } -> std::input_or_output_iterator;
+        { cont.end()    } -> std::input_or_output_iterator;
+        { cont.cbegin() } -> std::input_or_output_iterator;
+        { cont.cend()   } -> std::input_or_output_iterator;
         
         typename C::value_type;
 
